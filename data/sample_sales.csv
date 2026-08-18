@@ -1,0 +1,651 @@
+Order ID,Date,Product,Category,Customer,Region,City,Quantity,Unit Price,Revenue,Profit,Sales Channel,Payment Method
+ORD-2024-10001,2025-10-16,Pro Max 5G Smartphone,Electronics,Cust-1018 (Alok Mukherjee),North,Delhi NCR,1,66570.0,66570.0,13561.74,Retail Store,UPI
+ORD-2024-10002,2024-08-11,RO Water Purifier,Appliances,Cust-1007 (Siddharth Rao),Central,Bhopal,1,15660.0,15660.0,4724.99,Retail Store,UPI
+ORD-2024-10003,2026-06-09,"Ultra 4K Smart TV 55""",Electronics,Cust-1002 (Rohan Mehta),West,Mumbai,1,49970.0,49970.0,10315.38,Retail Store,UPI
+ORD-2024-10004,2024-12-18,Executive Leather Journal Set,Books & Stationery,Cust-1017 (Nisha Choudhury),East,Kolkata,3,1550.0,4650.0,1260.89,Retail Store,Credit Card
+ORD-2024-10005,2026-06-25,Running Sports Shoes,Apparel & Fashion,Cust-1007 (Siddharth Rao),West,Mumbai,1,3880.0,3880.0,1134.57,Distributor,UPI
+ORD-2024-10006,2025-04-09,Italian Fit Formal Suit,Apparel & Fashion,Cust-1017 (Nisha Choudhury),North,Jaipur,1,12830.0,12830.0,2891.71,Flipkart,UPI
+ORD-2024-10007,2025-01-23,Running Sports Shoes,Apparel & Fashion,Cust-1001 (Priya Patel),North,Jaipur,1,3890.0,3890.0,1208.29,Flipkart,Credit Card
+ORD-2024-10008,2024-03-08,RO Water Purifier,Appliances,Cust-1004 (Vikram Singh),East,Guwahati,1,16080.0,16080.0,4686.11,Retail Store,UPI
+ORD-2024-10009,2025-07-28,Executive Leather Journal Set,Books & Stationery,Cust-1004 (Vikram Singh),West,Pune,2,1540.0,3080.0,859.94,Amazon India,UPI
+ORD-2024-10010,2024-02-18,"Ultra 4K Smart TV 55""",Electronics,Cust-1012 (Suresh Menon),North,Chandigarh,1,49620.0,49620.0,12492.69,Amazon India,Credit Card
+ORD-2024-10011,2024-09-14,Python Data Analytics Guide,Books & Stationery,Cust-1003 (Ananya Reddy),West,Ahmedabad,1,920.0,920.0,303.98,Retail Store,UPI
+ORD-2024-10012,2024-01-04,Running Sports Shoes,Apparel & Fashion,Cust-1004 (Vikram Singh),West,Pune,2,4100.0,8200.0,1624.34,Retail Store,UPI
+ORD-2024-10013,2026-03-08,Python Data Analytics Guide,Books & Stationery,Cust-1007 (Siddharth Rao),West,Ahmedabad,2,910.0,1820.0,362.21,Online Store,Debit Card
+ORD-2024-10014,2024-03-21,Wireless Ergonomic Mouse,Electronics,Cust-1021 (Shruti Banerjee),South,Chennai,1,1500.0,1500.0,463.95,Retail Store,Credit Card
+ORD-2024-10015,2024-09-28,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1012 (Suresh Menon),South,Hyderabad,5,730.0,3650.0,1125.64,Direct Corporate,Credit Card
+ORD-2024-10016,2025-03-24,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1007 (Siddharth Rao),Central,Raipur,1,670.0,670.0,159.11,Amazon India,UPI
+ORD-2024-10017,2025-12-25,"Ultra 4K Smart TV 55""",Electronics,Cust-1008 (Kavya Nair),Central,Indore,1,46880.0,46880.0,11071.78,Amazon India,UPI
+ORD-2024-10018,2024-05-15,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1021 (Shruti Banerjee),North,Delhi NCR,2,680.0,1360.0,338.91,Retail Store,Credit Card
+ORD-2024-10019,2025-04-23,Wireless Ergonomic Mouse,Electronics,Cust-1007 (Siddharth Rao),West,Mumbai,1,1520.0,1520.0,289.26,Online Store,Credit Card
+ORD-2024-10020,2024-05-23,Solid Teak Dining Table,Home & Furniture,Cust-1001 (Priya Patel),East,Kolkata,1,31290.0,31290.0,10543.33,Amazon India,Credit Card
+ORD-2024-10021,2024-01-16,"Ultra 4K Smart TV 55""",Electronics,Cust-1005 (Neha Gupta),East,Kolkata,1,47360.0,47360.0,10245.72,Retail Store,Cash on Delivery
+ORD-2024-10022,2024-09-28,Orthopedic Foam Mattress,Home & Furniture,Cust-1022 (Manish Pandey),Central,Raipur,8,18360.0,146880.0,51293.71,Retail Store,UPI
+ORD-2024-10023,2024-08-10,Fitness Smartwatch Gen 4,Electronics,Cust-1016 (Tarun Saxena),North,Chandigarh,1,9210.0,9210.0,2148.81,Distributor,Credit Card
+ORD-2024-10024,2024-02-28,Python Data Analytics Guide,Books & Stationery,Cust-1003 (Ananya Reddy),South,Kochi,1,930.0,930.0,178.14,Distributor,Credit Card
+ORD-2024-10025,2025-08-15,Python Data Analytics Guide,Books & Stationery,Cust-1008 (Kavya Nair),Central,Bhopal,2,910.0,1820.0,508.19,Online Store,Net Banking
+ORD-2024-10026,2024-09-01,Genuine Leather Boots,Apparel & Fashion,Cust-1014 (Rajesh Agarwal),North,Delhi NCR,2,5780.0,11560.0,2979.34,Amazon India,Credit Card
+ORD-2024-10027,2024-04-12,Fitness Smartwatch Gen 4,Electronics,Cust-1011 (Meera Iyer),North,Jaipur,1,8740.0,8740.0,2959.84,Retail Store,Credit Card
+ORD-2024-10028,2025-07-10,Running Sports Shoes,Apparel & Fashion,Cust-1021 (Shruti Banerjee),Central,Bhopal,4,4190.0,16760.0,4523.86,Online Store,Debit Card
+ORD-2024-10029,2024-09-27,Pro Max 5G Smartphone,Electronics,Cust-1006 (Rahul Verma),South,Hyderabad,1,66570.0,66570.0,15171.21,Amazon India,Debit Card
+ORD-2024-10030,2025-06-01,Orthopedic Foam Mattress,Home & Furniture,Cust-1001 (Priya Patel),East,Patna,4,19250.0,77000.0,15068.19,Online Store,Net Banking
+ORD-2024-10031,2025-10-14,Italian Fit Formal Suit,Apparel & Fashion,Cust-1002 (Rohan Mehta),North,Delhi NCR,2,13310.0,26620.0,6727.05,Distributor,Credit Card
+ORD-2024-10032,2024-06-01,Python Data Analytics Guide,Books & Stationery,Cust-1009 (Amit Joshi),South,Bengaluru,2,930.0,1860.0,381.63,Retail Store,Debit Card
+ORD-2024-10033,2026-05-31,Slim Book Laptop 16GB,Electronics,Cust-1019 (Divya Malhotra),Central,Bhopal,1,70400.0,70400.0,13902.23,Flipkart,Debit Card
+ORD-2024-10034,2024-08-30,Front Load Washing Machine,Appliances,Cust-1021 (Shruti Banerjee),West,Surat,1,35820.0,35820.0,10932.84,Distributor,Net Banking
+ORD-2024-10035,2024-09-30,Inverter Split AC 1.5 Ton,Appliances,Cust-1011 (Meera Iyer),South,Kochi,1,41510.0,41510.0,10793.32,Retail Store,Net Banking
+ORD-2024-10036,2024-08-21,Inverter Split AC 1.5 Ton,Appliances,Cust-1011 (Meera Iyer),North,Lucknow,1,42670.0,42670.0,9701.56,Amazon India,UPI
+ORD-2024-10037,2026-05-13,Executive Leather Journal Set,Books & Stationery,Cust-1001 (Priya Patel),South,Hyderabad,1,1560.0,1560.0,538.15,Online Store,Credit Card
+ORD-2024-10038,2026-01-16,Genuine Leather Boots,Apparel & Fashion,Cust-1008 (Kavya Nair),Central,Indore,2,6060.0,12120.0,2975.26,Online Store,Credit Card
+ORD-2024-10039,2025-06-16,Financial Modeling Handbook,Books & Stationery,Cust-1021 (Shruti Banerjee),West,Ahmedabad,1,1280.0,1280.0,374.94,Flipkart,Net Banking
+ORD-2024-10040,2024-11-03,Executive Leather Journal Set,Books & Stationery,Cust-1006 (Rahul Verma),Central,Indore,1,1520.0,1520.0,453.76,Retail Store,Debit Card
+ORD-2024-10041,2025-11-24,RO Water Purifier,Appliances,Cust-1006 (Rahul Verma),West,Ahmedabad,1,15610.0,15610.0,5022.26,Retail Store,Credit Card
+ORD-2024-10042,2025-11-01,Genuine Leather Boots,Apparel & Fashion,Cust-1009 (Amit Joshi),South,Bengaluru,3,5960.0,17880.0,4772.16,Amazon India,Credit Card
+ORD-2024-10043,2024-12-09,"Ultra 4K Smart TV 55""",Electronics,Cust-1007 (Siddharth Rao),North,Delhi NCR,1,49850.0,49850.0,10660.53,Direct Corporate,Credit Card
+ORD-2024-10044,2026-02-25,Noise-Canceling Earbuds,Electronics,Cust-1012 (Suresh Menon),East,Guwahati,1,4960.0,4960.0,1056.75,Online Store,Credit Card
+ORD-2024-10045,2024-01-06,Noise-Canceling Earbuds,Electronics,Cust-1017 (Nisha Choudhury),East,Kolkata,2,4860.0,9720.0,2899.52,Online Store,Net Banking
+ORD-2024-10046,2025-04-12,Double Door Refrigerator,Appliances,Cust-1017 (Nisha Choudhury),East,Guwahati,3,39550.0,118650.0,33367.57,Retail Store,UPI
+ORD-2024-10047,2026-06-01,Adjustable LED Desk Lamp,Home & Furniture,Cust-1020 (Karan Kapoor),Central,Bhopal,1,1950.0,1950.0,562.38,Online Store,Credit Card
+ORD-2024-10048,2025-12-31,Italian Fit Formal Suit,Apparel & Fashion,Cust-1007 (Siddharth Rao),South,Chennai,1,12700.0,12700.0,3452.19,Retail Store,UPI
+ORD-2024-10049,2024-08-07,Noise-Canceling Earbuds,Electronics,Cust-1012 (Suresh Menon),South,Kochi,1,4950.0,4950.0,1240.87,Distributor,Credit Card
+ORD-2024-10050,2025-12-13,Fitness Smartwatch Gen 4,Electronics,Cust-1017 (Nisha Choudhury),East,Guwahati,1,8890.0,8890.0,2131.81,Flipkart,Credit Card
+ORD-2024-10051,2025-09-09,Double Door Refrigerator,Appliances,Cust-1023 (Swati Pillai),West,Surat,1,37810.0,37810.0,6992.36,Online Store,Credit Card
+ORD-2024-10052,2024-05-10,Python Data Analytics Guide,Books & Stationery,Cust-1004 (Vikram Singh),North,Chandigarh,2,940.0,1880.0,550.29,Distributor,UPI
+ORD-2024-10053,2024-09-23,Orthopedic Foam Mattress,Home & Furniture,Cust-1024 (Gaurav Bhatia),East,Patna,1,17970.0,17970.0,5560.08,Direct Corporate,Credit Card
+ORD-2024-10054,2026-05-04,Noise-Canceling Earbuds,Electronics,Cust-1020 (Karan Kapoor),West,Pune,1,4760.0,4760.0,1665.93,Online Store,Cash on Delivery
+ORD-2024-10055,2024-02-11,"Ultra 4K Smart TV 55""",Electronics,Cust-1021 (Shruti Banerjee),South,Kochi,1,47530.0,47530.0,9786.66,Online Store,Debit Card
+ORD-2024-10056,2025-04-21,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1009 (Amit Joshi),North,Jaipur,2,2420.0,4840.0,1486.59,Online Store,UPI
+ORD-2024-10057,2024-11-15,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1022 (Manish Pandey),South,Bengaluru,3,690.0,2070.0,399.34,Flipkart,Debit Card
+ORD-2024-10058,2025-09-06,Fitness Smartwatch Gen 4,Electronics,Cust-1016 (Tarun Saxena),West,Mumbai,1,9250.0,9250.0,2338.62,Amazon India,UPI
+ORD-2024-10059,2025-03-06,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1013 (Pooja Deshmukh),East,Bhubaneswar,1,11420.0,11420.0,3786.5,Online Store,Credit Card
+ORD-2024-10060,2025-10-28,Running Sports Shoes,Apparel & Fashion,Cust-1010 (Deepak Kumar),East,Patna,2,4120.0,8240.0,2160.48,Distributor,Net Banking
+ORD-2024-10061,2024-03-29,Genuine Leather Boots,Apparel & Fashion,Cust-1000 (Aarav Sharma),East,Patna,2,5850.0,11700.0,3319.95,Retail Store,UPI
+ORD-2024-10062,2025-05-14,Convection Microwave Oven,Appliances,Cust-1016 (Tarun Saxena),West,Mumbai,1,14420.0,14420.0,4753.62,Distributor,UPI
+ORD-2024-10063,2026-01-07,Adjustable LED Desk Lamp,Home & Furniture,Cust-1000 (Aarav Sharma),East,Guwahati,1,2010.0,2010.0,524.48,Online Store,UPI
+ORD-2024-10064,2025-12-09,Convection Microwave Oven,Appliances,Cust-1023 (Swati Pillai),West,Surat,1,14230.0,14230.0,3900.31,Amazon India,UPI
+ORD-2024-10065,2025-04-09,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1006 (Rahul Verma),North,Jaipur,1,2440.0,2440.0,519.08,Online Store,Credit Card
+ORD-2024-10066,2026-01-11,Executive Leather Journal Set,Books & Stationery,Cust-1009 (Amit Joshi),West,Pune,4,1570.0,6280.0,1446.67,Online Store,Credit Card
+ORD-2024-10067,2024-10-07,Pro Max 5G Smartphone,Electronics,Cust-1000 (Aarav Sharma),East,Kolkata,1,65350.0,65350.0,13165.9,Amazon India,Credit Card
+ORD-2024-10068,2025-03-27,Italian Fit Formal Suit,Apparel & Fashion,Cust-1012 (Suresh Menon),North,Delhi NCR,1,13600.0,13600.0,4440.3,Retail Store,Credit Card
+ORD-2024-10069,2025-12-03,"Ultra 4K Smart TV 55""",Electronics,Cust-1017 (Nisha Choudhury),South,Bengaluru,1,47280.0,47280.0,10952.51,Flipkart,Credit Card
+ORD-2024-10070,2026-03-20,Financial Modeling Handbook,Books & Stationery,Cust-1009 (Amit Joshi),West,Surat,1,1330.0,1330.0,444.81,Amazon India,UPI
+ORD-2024-10071,2026-01-27,"Ultra 4K Smart TV 55""",Electronics,Cust-1017 (Nisha Choudhury),South,Chennai,1,49610.0,49610.0,9614.51,Online Store,UPI
+ORD-2024-10072,2025-04-06,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1021 (Shruti Banerjee),East,Kolkata,1,680.0,680.0,204.12,Online Store,UPI
+ORD-2024-10073,2026-03-21,Financial Modeling Handbook,Books & Stationery,Cust-1002 (Rohan Mehta),West,Pune,2,1290.0,2580.0,748.45,Online Store,Net Banking
+ORD-2024-10074,2025-09-01,Executive Leather Journal Set,Books & Stationery,Cust-1016 (Tarun Saxena),East,Patna,2,1490.0,2980.0,690.45,Amazon India,Credit Card
+ORD-2024-10075,2025-09-04,Noise-Canceling Earbuds,Electronics,Cust-1024 (Gaurav Bhatia),South,Bengaluru,1,5120.0,5120.0,944.11,Amazon India,UPI
+ORD-2024-10076,2024-02-11,Double Door Refrigerator,Appliances,Cust-1020 (Karan Kapoor),Central,Bhopal,1,38970.0,38970.0,8857.36,Flipkart,Cash on Delivery
+ORD-2024-10077,2025-04-26,Genuine Leather Boots,Apparel & Fashion,Cust-1022 (Manish Pandey),West,Surat,3,5900.0,17700.0,5766.92,Retail Store,Credit Card
+ORD-2024-10078,2025-02-14,Python Data Analytics Guide,Books & Stationery,Cust-1021 (Shruti Banerjee),East,Kolkata,1,890.0,890.0,209.11,Distributor,Credit Card
+ORD-2024-10079,2024-02-25,RO Water Purifier,Appliances,Cust-1008 (Kavya Nair),North,Jaipur,1,15280.0,15280.0,4374.96,Amazon India,Debit Card
+ORD-2024-10080,2025-03-24,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1017 (Nisha Choudhury),South,Hyderabad,2,10960.0,21920.0,6924.16,Online Store,Credit Card
+ORD-2024-10081,2024-08-18,Noise-Canceling Earbuds,Electronics,Cust-1013 (Pooja Deshmukh),West,Ahmedabad,1,5220.0,5220.0,1076.23,Flipkart,Cash on Delivery
+ORD-2024-10082,2024-09-06,Modular Storage Bookshelf,Home & Furniture,Cust-1008 (Kavya Nair),South,Bengaluru,1,6270.0,6270.0,1767.48,Flipkart,Debit Card
+ORD-2024-10083,2024-12-14,Executive Leather Journal Set,Books & Stationery,Cust-1021 (Shruti Banerjee),Central,Raipur,1,1550.0,1550.0,357.67,Retail Store,UPI
+ORD-2024-10084,2025-07-05,Orthopedic Foam Mattress,Home & Furniture,Cust-1022 (Manish Pandey),West,Pune,3,18190.0,54570.0,13321.94,Online Store,UPI
+ORD-2024-10085,2026-05-26,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1021 (Shruti Banerjee),East,Guwahati,2,11290.0,22580.0,7570.69,Flipkart,Credit Card
+ORD-2024-10086,2024-06-04,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1003 (Ananya Reddy),North,Chandigarh,8,11070.0,88560.0,20939.05,Amazon India,Credit Card
+ORD-2024-10087,2026-01-09,Double Door Refrigerator,Appliances,Cust-1019 (Divya Malhotra),West,Ahmedabad,3,40340.0,121020.0,23323.07,Amazon India,Credit Card
+ORD-2024-10088,2026-05-22,Running Sports Shoes,Apparel & Fashion,Cust-1019 (Divya Malhotra),East,Kolkata,1,3950.0,3950.0,1193.62,Online Store,Credit Card
+ORD-2024-10089,2026-08-01,Italian Fit Formal Suit,Apparel & Fashion,Cust-1005 (Neha Gupta),North,Chandigarh,2,13320.0,26640.0,5241.03,Amazon India,Debit Card
+ORD-2024-10090,2024-02-17,Silk Designer Kurta Set,Apparel & Fashion,Cust-1018 (Alok Mukherjee),Central,Bhopal,1,4410.0,4410.0,902.93,Amazon India,UPI
+ORD-2024-10091,2024-06-28,Fitness Smartwatch Gen 4,Electronics,Cust-1007 (Siddharth Rao),Central,Indore,1,9330.0,9330.0,2061.38,Retail Store,UPI
+ORD-2024-10092,2024-09-18,Noise-Canceling Earbuds,Electronics,Cust-1018 (Alok Mukherjee),East,Patna,1,5200.0,5200.0,1075.65,Retail Store,Cash on Delivery
+ORD-2024-10093,2025-12-07,Genuine Leather Boots,Apparel & Fashion,Cust-1007 (Siddharth Rao),East,Kolkata,1,6210.0,6210.0,1523.92,Retail Store,UPI
+ORD-2024-10094,2024-10-29,Silk Designer Kurta Set,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),Central,Raipur,3,4720.0,14160.0,3209.53,Flipkart,UPI
+ORD-2024-10095,2025-09-12,Orthopedic Foam Mattress,Home & Furniture,Cust-1019 (Divya Malhotra),South,Chennai,1,19010.0,19010.0,6013.4,Retail Store,Net Banking
+ORD-2024-10096,2026-02-24,Inverter Split AC 1.5 Ton,Appliances,Cust-1018 (Alok Mukherjee),East,Kolkata,1,43690.0,43690.0,10158.74,Retail Store,UPI
+ORD-2024-10097,2026-07-20,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1016 (Tarun Saxena),Central,Bhopal,1,2560.0,2560.0,518.32,Amazon India,UPI
+ORD-2024-10098,2024-06-17,Genuine Leather Boots,Apparel & Fashion,Cust-1002 (Rohan Mehta),North,Chandigarh,1,6280.0,6280.0,2059.64,Online Store,Cash on Delivery
+ORD-2024-10099,2026-05-30,Modular Storage Bookshelf,Home & Furniture,Cust-1014 (Rajesh Agarwal),Central,Indore,3,6410.0,19230.0,3506.9,Retail Store,Net Banking
+ORD-2024-10100,2024-09-25,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1000 (Aarav Sharma),South,Kochi,5,720.0,3600.0,714.31,Amazon India,Debit Card
+ORD-2024-10101,2024-12-01,Financial Modeling Handbook,Books & Stationery,Cust-1003 (Ananya Reddy),West,Surat,2,1320.0,2640.0,683.56,Online Store,Debit Card
+ORD-2024-10102,2024-11-07,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1021 (Shruti Banerjee),East,Patna,4,11040.0,44160.0,8967.26,Distributor,Credit Card
+ORD-2024-10103,2025-07-07,Modular Storage Bookshelf,Home & Furniture,Cust-1019 (Divya Malhotra),North,Chandigarh,1,6660.0,6660.0,1668.53,Retail Store,Cash on Delivery
+ORD-2024-10104,2024-02-03,Italian Fit Formal Suit,Apparel & Fashion,Cust-1017 (Nisha Choudhury),North,Lucknow,8,12930.0,103440.0,33662.12,Distributor,Credit Card
+ORD-2024-10105,2024-03-03,Orthopedic Foam Mattress,Home & Furniture,Cust-1021 (Shruti Banerjee),East,Kolkata,1,17930.0,17930.0,5812.29,Online Store,Credit Card
+ORD-2024-10106,2024-01-22,Slim Book Laptop 16GB,Electronics,Cust-1018 (Alok Mukherjee),North,Jaipur,1,70640.0,70640.0,19495.1,Online Store,Debit Card
+ORD-2024-10107,2024-12-02,RO Water Purifier,Appliances,Cust-1005 (Neha Gupta),South,Hyderabad,2,14730.0,29460.0,6027.43,Online Store,Debit Card
+ORD-2024-10108,2024-05-14,Slim Book Laptop 16GB,Electronics,Cust-1001 (Priya Patel),South,Hyderabad,1,74600.0,74600.0,17534.07,Online Store,Credit Card
+ORD-2024-10109,2024-04-26,Noise-Canceling Earbuds,Electronics,Cust-1019 (Divya Malhotra),East,Bhubaneswar,1,4970.0,4970.0,1396.19,Online Store,Net Banking
+ORD-2024-10110,2026-06-06,Executive Leather Journal Set,Books & Stationery,Cust-1013 (Pooja Deshmukh),East,Guwahati,8,1490.0,11920.0,2268.86,Amazon India,Credit Card
+ORD-2024-10111,2026-07-20,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1019 (Divya Malhotra),South,Hyderabad,1,11960.0,11960.0,2454.39,Amazon India,Credit Card
+ORD-2024-10112,2024-11-28,Modular Storage Bookshelf,Home & Furniture,Cust-1020 (Karan Kapoor),North,Delhi NCR,2,6520.0,13040.0,3689.31,Amazon India,Net Banking
+ORD-2024-10113,2026-01-08,Double Door Refrigerator,Appliances,Cust-1013 (Pooja Deshmukh),East,Guwahati,1,38710.0,38710.0,9198.21,Flipkart,UPI
+ORD-2024-10114,2024-11-16,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1002 (Rohan Mehta),North,Delhi NCR,3,2610.0,7830.0,2040.7,Retail Store,Net Banking
+ORD-2024-10115,2025-01-16,RO Water Purifier,Appliances,Cust-1011 (Meera Iyer),North,Chandigarh,3,14820.0,44460.0,12248.12,Distributor,Debit Card
+ORD-2024-10116,2025-03-09,Slim Book Laptop 16GB,Electronics,Cust-1021 (Shruti Banerjee),South,Chennai,1,73230.0,73230.0,20375.97,Retail Store,Net Banking
+ORD-2024-10117,2024-12-24,Executive Leather Journal Set,Books & Stationery,Cust-1019 (Divya Malhotra),East,Kolkata,1,1440.0,1440.0,314.56,Distributor,Net Banking
+ORD-2024-10118,2024-09-30,"Ultra 4K Smart TV 55""",Electronics,Cust-1005 (Neha Gupta),West,Mumbai,1,47890.0,47890.0,16122.71,Distributor,Credit Card
+ORD-2024-10119,2025-02-14,"Ultra 4K Smart TV 55""",Electronics,Cust-1012 (Suresh Menon),Central,Indore,3,50180.0,150540.0,29445.44,Retail Store,UPI
+ORD-2024-10120,2025-01-13,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1005 (Neha Gupta),North,Jaipur,2,2570.0,5140.0,999.44,Flipkart,UPI
+ORD-2024-10121,2024-03-24,Genuine Leather Boots,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),West,Pune,2,6100.0,12200.0,3112.8,Amazon India,UPI
+ORD-2024-10122,2024-04-23,Running Sports Shoes,Apparel & Fashion,Cust-1000 (Aarav Sharma),East,Kolkata,3,3990.0,11970.0,2247.02,Online Store,Debit Card
+ORD-2024-10123,2026-02-24,Convection Microwave Oven,Appliances,Cust-1004 (Vikram Singh),East,Bhubaneswar,1,13700.0,13700.0,3624.41,Retail Store,Net Banking
+ORD-2024-10124,2025-05-27,Executive Leather Journal Set,Books & Stationery,Cust-1002 (Rohan Mehta),North,Chandigarh,4,1430.0,5720.0,1070.73,Distributor,Credit Card
+ORD-2024-10125,2025-08-10,Adjustable LED Desk Lamp,Home & Furniture,Cust-1022 (Manish Pandey),South,Kochi,2,1960.0,3920.0,1349.48,Distributor,UPI
+ORD-2024-10126,2026-05-14,"Ultra 4K Smart TV 55""",Electronics,Cust-1007 (Siddharth Rao),West,Ahmedabad,1,48680.0,48680.0,9413.25,Retail Store,UPI
+ORD-2024-10127,2025-06-06,Fitness Smartwatch Gen 4,Electronics,Cust-1003 (Ananya Reddy),South,Chennai,2,9010.0,18020.0,4313.88,Online Store,UPI
+ORD-2024-10128,2025-09-08,Inverter Split AC 1.5 Ton,Appliances,Cust-1014 (Rajesh Agarwal),Central,Raipur,1,40640.0,40640.0,10728.96,Amazon India,Debit Card
+ORD-2024-10129,2025-10-20,Executive Leather Journal Set,Books & Stationery,Cust-1014 (Rajesh Agarwal),North,Chandigarh,2,1550.0,3100.0,637.55,Amazon India,Net Banking
+ORD-2024-10130,2025-08-28,Slim Book Laptop 16GB,Electronics,Cust-1009 (Amit Joshi),North,Lucknow,1,72550.0,72550.0,18632.68,Online Store,Debit Card
+ORD-2024-10131,2026-05-25,Fitness Smartwatch Gen 4,Electronics,Cust-1018 (Alok Mukherjee),North,Chandigarh,1,9080.0,9080.0,2530.2,Amazon India,UPI
+ORD-2024-10132,2025-05-02,Financial Modeling Handbook,Books & Stationery,Cust-1016 (Tarun Saxena),West,Mumbai,2,1360.0,2720.0,864.59,Amazon India,UPI
+ORD-2024-10133,2025-12-25,Adjustable LED Desk Lamp,Home & Furniture,Cust-1013 (Pooja Deshmukh),West,Surat,2,2000.0,4000.0,967.45,Flipkart,Credit Card
+ORD-2024-10134,2024-02-23,Silk Designer Kurta Set,Apparel & Fashion,Cust-1010 (Deepak Kumar),West,Pune,2,4420.0,8840.0,2172.13,Online Store,Credit Card
+ORD-2024-10135,2026-07-27,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1002 (Rohan Mehta),Central,Raipur,3,2620.0,7860.0,1938.53,Retail Store,UPI
+ORD-2024-10136,2026-03-21,Italian Fit Formal Suit,Apparel & Fashion,Cust-1020 (Karan Kapoor),Central,Indore,4,13220.0,52880.0,16159.69,Amazon India,Credit Card
+ORD-2024-10137,2024-01-19,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1007 (Siddharth Rao),East,Bhubaneswar,1,2420.0,2420.0,825.47,Direct Corporate,UPI
+ORD-2024-10138,2024-10-29,Fitness Smartwatch Gen 4,Electronics,Cust-1024 (Gaurav Bhatia),North,Lucknow,2,9240.0,18480.0,6102.58,Amazon India,Credit Card
+ORD-2024-10139,2024-06-06,Front Load Washing Machine,Appliances,Cust-1001 (Priya Patel),South,Kochi,1,35640.0,35640.0,11317.03,Retail Store,Credit Card
+ORD-2024-10140,2024-08-31,Modular Storage Bookshelf,Home & Furniture,Cust-1009 (Amit Joshi),Central,Indore,3,6360.0,19080.0,4890.54,Direct Corporate,Net Banking
+ORD-2024-10141,2026-07-14,Convection Microwave Oven,Appliances,Cust-1016 (Tarun Saxena),West,Surat,1,14250.0,14250.0,3632.35,Amazon India,Cash on Delivery
+ORD-2024-10142,2026-04-16,RO Water Purifier,Appliances,Cust-1022 (Manish Pandey),West,Mumbai,1,14940.0,14940.0,4317.67,Flipkart,Debit Card
+ORD-2024-10143,2024-10-18,"Ultra 4K Smart TV 55""",Electronics,Cust-1007 (Siddharth Rao),East,Kolkata,2,47890.0,95780.0,19639.62,Flipkart,Debit Card
+ORD-2024-10144,2026-08-10,Noise-Canceling Earbuds,Electronics,Cust-1007 (Siddharth Rao),North,Lucknow,1,4780.0,4780.0,1051.99,Online Store,Debit Card
+ORD-2024-10145,2026-05-09,Italian Fit Formal Suit,Apparel & Fashion,Cust-1014 (Rajesh Agarwal),South,Kochi,1,12530.0,12530.0,4022.88,Amazon India,Debit Card
+ORD-2024-10146,2024-01-20,Italian Fit Formal Suit,Apparel & Fashion,Cust-1003 (Ananya Reddy),Central,Bhopal,2,13430.0,26860.0,8155.5,Flipkart,UPI
+ORD-2024-10147,2024-05-04,"Ultra 4K Smart TV 55""",Electronics,Cust-1019 (Divya Malhotra),North,Chandigarh,1,48610.0,48610.0,12527.25,Amazon India,Credit Card
+ORD-2024-10148,2025-08-11,Front Load Washing Machine,Appliances,Cust-1005 (Neha Gupta),Central,Bhopal,1,33780.0,33780.0,8106.48,Amazon India,UPI
+ORD-2024-10149,2025-01-04,Fitness Smartwatch Gen 4,Electronics,Cust-1015 (Sunita Kulkarni),North,Chandigarh,1,9040.0,9040.0,2407.31,Online Store,UPI
+ORD-2024-10150,2025-01-17,Silk Designer Kurta Set,Apparel & Fashion,Cust-1004 (Vikram Singh),North,Lucknow,1,4440.0,4440.0,981.2,Online Store,Credit Card
+ORD-2024-10151,2026-04-13,Double Door Refrigerator,Appliances,Cust-1022 (Manish Pandey),South,Bengaluru,1,40770.0,40770.0,8601.95,Flipkart,Credit Card
+ORD-2024-10152,2024-10-27,Inverter Split AC 1.5 Ton,Appliances,Cust-1017 (Nisha Choudhury),West,Surat,2,43220.0,86440.0,20196.82,Retail Store,UPI
+ORD-2024-10153,2025-10-24,Convection Microwave Oven,Appliances,Cust-1003 (Ananya Reddy),West,Ahmedabad,1,13800.0,13800.0,4515.16,Flipkart,Credit Card
+ORD-2024-10154,2025-02-13,Adjustable LED Desk Lamp,Home & Furniture,Cust-1002 (Rohan Mehta),West,Ahmedabad,1,1970.0,1970.0,586.37,Flipkart,UPI
+ORD-2024-10155,2025-09-08,RO Water Purifier,Appliances,Cust-1014 (Rajesh Agarwal),West,Ahmedabad,1,15180.0,15180.0,3578.63,Amazon India,Credit Card
+ORD-2024-10156,2025-12-07,Orthopedic Foam Mattress,Home & Furniture,Cust-1008 (Kavya Nair),Central,Bhopal,3,18400.0,55200.0,18490.52,Amazon India,Net Banking
+ORD-2024-10157,2024-02-28,Wireless Ergonomic Mouse,Electronics,Cust-1004 (Vikram Singh),South,Bengaluru,1,1520.0,1520.0,480.6,Flipkart,Credit Card
+ORD-2024-10158,2025-03-24,"Ultra 4K Smart TV 55""",Electronics,Cust-1019 (Divya Malhotra),East,Kolkata,1,46880.0,46880.0,11357.89,Online Store,Credit Card
+ORD-2024-10159,2025-01-14,Genuine Leather Boots,Apparel & Fashion,Cust-1020 (Karan Kapoor),East,Patna,2,6160.0,12320.0,3326.5,Retail Store,Cash on Delivery
+ORD-2024-10160,2024-01-27,Double Door Refrigerator,Appliances,Cust-1006 (Rahul Verma),West,Surat,2,38970.0,77940.0,15589.51,Direct Corporate,UPI
+ORD-2024-10161,2026-07-27,Solid Teak Dining Table,Home & Furniture,Cust-1021 (Shruti Banerjee),East,Kolkata,4,30790.0,123160.0,31633.31,Direct Corporate,Cash on Delivery
+ORD-2024-10162,2025-11-14,Silk Designer Kurta Set,Apparel & Fashion,Cust-1011 (Meera Iyer),South,Chennai,1,4520.0,4520.0,1044.09,Amazon India,UPI
+ORD-2024-10163,2024-07-24,Front Load Washing Machine,Appliances,Cust-1017 (Nisha Choudhury),West,Surat,1,35500.0,35500.0,9733.52,Online Store,Debit Card
+ORD-2024-10164,2024-03-08,Genuine Leather Boots,Apparel & Fashion,Cust-1004 (Vikram Singh),East,Kolkata,3,6300.0,18900.0,5091.06,Direct Corporate,Credit Card
+ORD-2024-10165,2025-04-05,Modular Storage Bookshelf,Home & Furniture,Cust-1024 (Gaurav Bhatia),Central,Indore,4,6400.0,25600.0,8003.7,Direct Corporate,Credit Card
+ORD-2024-10166,2026-07-21,Pro Max 5G Smartphone,Electronics,Cust-1016 (Tarun Saxena),South,Hyderabad,1,65120.0,65120.0,13514.64,Distributor,Net Banking
+ORD-2024-10167,2024-09-13,RO Water Purifier,Appliances,Cust-1018 (Alok Mukherjee),North,Jaipur,1,15150.0,15150.0,4309.46,Distributor,UPI
+ORD-2024-10168,2025-11-05,Executive Leather Journal Set,Books & Stationery,Cust-1001 (Priya Patel),North,Delhi NCR,2,1550.0,3100.0,992.9,Distributor,Net Banking
+ORD-2024-10169,2024-09-28,RO Water Purifier,Appliances,Cust-1020 (Karan Kapoor),Central,Bhopal,1,15370.0,15370.0,4067.92,Direct Corporate,Credit Card
+ORD-2024-10170,2026-04-04,Orthopedic Foam Mattress,Home & Furniture,Cust-1014 (Rajesh Agarwal),East,Guwahati,3,18410.0,55230.0,11425.63,Online Store,Credit Card
+ORD-2024-10171,2024-11-16,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1010 (Deepak Kumar),Central,Indore,1,2620.0,2620.0,636.64,Online Store,UPI
+ORD-2024-10172,2025-04-05,Front Load Washing Machine,Appliances,Cust-1007 (Siddharth Rao),Central,Bhopal,1,33110.0,33110.0,8122.06,Direct Corporate,Debit Card
+ORD-2024-10173,2026-04-13,Running Sports Shoes,Apparel & Fashion,Cust-1015 (Sunita Kulkarni),Central,Bhopal,1,4090.0,4090.0,846.99,Distributor,Credit Card
+ORD-2024-10174,2024-04-02,Modular Storage Bookshelf,Home & Furniture,Cust-1009 (Amit Joshi),North,Delhi NCR,1,6470.0,6470.0,1806.22,Retail Store,Debit Card
+ORD-2024-10175,2025-10-31,Orthopedic Foam Mattress,Home & Furniture,Cust-1024 (Gaurav Bhatia),West,Ahmedabad,4,18570.0,74280.0,18811.98,Retail Store,UPI
+ORD-2024-10176,2024-02-22,Financial Modeling Handbook,Books & Stationery,Cust-1019 (Divya Malhotra),East,Patna,1,1280.0,1280.0,314.47,Amazon India,UPI
+ORD-2024-10177,2024-04-09,Orthopedic Foam Mattress,Home & Furniture,Cust-1019 (Divya Malhotra),South,Chennai,1,19050.0,19050.0,6469.78,Amazon India,Credit Card
+ORD-2024-10178,2024-02-16,"Ultra 4K Smart TV 55""",Electronics,Cust-1010 (Deepak Kumar),South,Chennai,2,50050.0,100100.0,26855.48,Distributor,UPI
+ORD-2024-10179,2025-02-06,Executive Leather Journal Set,Books & Stationery,Cust-1015 (Sunita Kulkarni),East,Patna,2,1510.0,3020.0,805.29,Flipkart,UPI
+ORD-2024-10180,2025-11-20,Noise-Canceling Earbuds,Electronics,Cust-1008 (Kavya Nair),North,Chandigarh,1,5040.0,5040.0,1528.66,Direct Corporate,Net Banking
+ORD-2024-10181,2026-03-05,Financial Modeling Handbook,Books & Stationery,Cust-1004 (Vikram Singh),Central,Bhopal,2,1330.0,2660.0,555.91,Flipkart,UPI
+ORD-2024-10182,2025-08-09,"Ultra 4K Smart TV 55""",Electronics,Cust-1016 (Tarun Saxena),South,Kochi,1,46640.0,46640.0,9595.87,Flipkart,Debit Card
+ORD-2024-10183,2026-06-12,Wireless Ergonomic Mouse,Electronics,Cust-1010 (Deepak Kumar),East,Guwahati,1,1440.0,1440.0,338.77,Direct Corporate,Credit Card
+ORD-2024-10184,2025-06-29,Running Sports Shoes,Apparel & Fashion,Cust-1006 (Rahul Verma),West,Surat,3,3940.0,11820.0,3576.23,Direct Corporate,UPI
+ORD-2024-10185,2024-11-01,Convection Microwave Oven,Appliances,Cust-1015 (Sunita Kulkarni),East,Patna,1,14380.0,14380.0,4275.76,Retail Store,Debit Card
+ORD-2024-10186,2026-03-25,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),East,Patna,3,2400.0,7200.0,1760.75,Flipkart,UPI
+ORD-2024-10187,2024-10-21,Slim Book Laptop 16GB,Electronics,Cust-1017 (Nisha Choudhury),South,Chennai,1,75570.0,75570.0,23203.58,Retail Store,Credit Card
+ORD-2024-10188,2024-10-05,Inverter Split AC 1.5 Ton,Appliances,Cust-1020 (Karan Kapoor),Central,Indore,1,42490.0,42490.0,9399.55,Online Store,UPI
+ORD-2024-10189,2024-12-04,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1020 (Karan Kapoor),South,Kochi,1,11710.0,11710.0,4027.87,Distributor,Debit Card
+ORD-2024-10190,2025-05-03,Convection Microwave Oven,Appliances,Cust-1017 (Nisha Choudhury),North,Jaipur,1,13750.0,13750.0,4597.3,Flipkart,Debit Card
+ORD-2024-10191,2024-02-08,Double Door Refrigerator,Appliances,Cust-1005 (Neha Gupta),East,Guwahati,1,40390.0,40390.0,13584.69,Distributor,Cash on Delivery
+ORD-2024-10192,2026-08-06,Silk Designer Kurta Set,Apparel & Fashion,Cust-1014 (Rajesh Agarwal),West,Ahmedabad,2,4280.0,8560.0,1696.94,Direct Corporate,Credit Card
+ORD-2024-10193,2025-05-20,RO Water Purifier,Appliances,Cust-1020 (Karan Kapoor),South,Kochi,1,15450.0,15450.0,3076.87,Retail Store,UPI
+ORD-2024-10194,2026-01-24,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1016 (Tarun Saxena),East,Guwahati,3,2520.0,7560.0,1586.35,Retail Store,Credit Card
+ORD-2024-10195,2024-04-07,Front Load Washing Machine,Appliances,Cust-1014 (Rajesh Agarwal),East,Bhubaneswar,2,34420.0,68840.0,12471.13,Flipkart,Cash on Delivery
+ORD-2024-10196,2024-11-05,Python Data Analytics Guide,Books & Stationery,Cust-1009 (Amit Joshi),North,Chandigarh,1,880.0,880.0,193.75,Online Store,Credit Card
+ORD-2024-10197,2026-08-03,Silk Designer Kurta Set,Apparel & Fashion,Cust-1004 (Vikram Singh),South,Chennai,5,4560.0,22800.0,5528.6,Retail Store,Credit Card
+ORD-2024-10198,2025-09-12,Genuine Leather Boots,Apparel & Fashion,Cust-1021 (Shruti Banerjee),South,Chennai,5,6120.0,30600.0,9447.74,Flipkart,Debit Card
+ORD-2024-10199,2024-03-24,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1017 (Nisha Choudhury),North,Delhi NCR,1,700.0,700.0,235.15,Distributor,UPI
+ORD-2024-10200,2025-07-03,Front Load Washing Machine,Appliances,Cust-1002 (Rohan Mehta),South,Kochi,1,33910.0,33910.0,6773.89,Distributor,Credit Card
+ORD-2024-10201,2024-02-26,Solid Teak Dining Table,Home & Furniture,Cust-1023 (Swati Pillai),East,Patna,2,32040.0,64080.0,12163.36,Online Store,UPI
+ORD-2024-10202,2024-01-04,RO Water Purifier,Appliances,Cust-1002 (Rohan Mehta),Central,Indore,1,14840.0,14840.0,4438.13,Direct Corporate,Credit Card
+ORD-2024-10203,2024-10-20,Solid Teak Dining Table,Home & Furniture,Cust-1012 (Suresh Menon),East,Patna,3,32860.0,98580.0,34139.9,Retail Store,Debit Card
+ORD-2024-10204,2025-01-21,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1005 (Neha Gupta),West,Mumbai,3,11710.0,35130.0,9544.16,Direct Corporate,UPI
+ORD-2024-10205,2024-05-10,Inverter Split AC 1.5 Ton,Appliances,Cust-1017 (Nisha Choudhury),Central,Bhopal,3,43080.0,129240.0,33435.77,Retail Store,UPI
+ORD-2024-10206,2025-04-16,Italian Fit Formal Suit,Apparel & Fashion,Cust-1021 (Shruti Banerjee),North,Delhi NCR,5,12710.0,63550.0,19271.8,Retail Store,Net Banking
+ORD-2024-10207,2026-06-23,"Ultra 4K Smart TV 55""",Electronics,Cust-1022 (Manish Pandey),Central,Raipur,1,47560.0,47560.0,8832.27,Distributor,UPI
+ORD-2024-10208,2024-02-15,Adjustable LED Desk Lamp,Home & Furniture,Cust-1016 (Tarun Saxena),North,Jaipur,1,1950.0,1950.0,637.33,Direct Corporate,UPI
+ORD-2024-10209,2026-07-27,Executive Leather Journal Set,Books & Stationery,Cust-1004 (Vikram Singh),South,Hyderabad,3,1510.0,4530.0,1445.64,Direct Corporate,Credit Card
+ORD-2024-10210,2025-02-27,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1017 (Nisha Choudhury),South,Kochi,5,2390.0,11950.0,3938.14,Retail Store,Cash on Delivery
+ORD-2024-10211,2025-10-20,Modular Storage Bookshelf,Home & Furniture,Cust-1024 (Gaurav Bhatia),East,Bhubaneswar,2,6380.0,12760.0,2620.48,Amazon India,UPI
+ORD-2024-10212,2024-08-18,Italian Fit Formal Suit,Apparel & Fashion,Cust-1012 (Suresh Menon),East,Bhubaneswar,5,13400.0,67000.0,18465.58,Online Store,UPI
+ORD-2024-10213,2025-10-24,Noise-Canceling Earbuds,Electronics,Cust-1008 (Kavya Nair),South,Bengaluru,1,5170.0,5170.0,1567.44,Retail Store,Credit Card
+ORD-2024-10214,2024-02-10,"Ultra 4K Smart TV 55""",Electronics,Cust-1006 (Rahul Verma),South,Kochi,1,50490.0,50490.0,14851.46,Distributor,UPI
+ORD-2024-10215,2026-07-19,"Ultra 4K Smart TV 55""",Electronics,Cust-1022 (Manish Pandey),East,Bhubaneswar,3,51140.0,153420.0,30675.37,Amazon India,UPI
+ORD-2024-10216,2026-07-26,RO Water Purifier,Appliances,Cust-1008 (Kavya Nair),West,Ahmedabad,1,15220.0,15220.0,3945.98,Retail Store,Debit Card
+ORD-2024-10217,2025-04-22,Wireless Ergonomic Mouse,Electronics,Cust-1013 (Pooja Deshmukh),West,Ahmedabad,2,1490.0,2980.0,999.6,Online Store,Debit Card
+ORD-2024-10218,2026-01-29,Inverter Split AC 1.5 Ton,Appliances,Cust-1004 (Vikram Singh),East,Patna,2,41000.0,82000.0,22833.25,Online Store,UPI
+ORD-2024-10219,2025-08-06,Double Door Refrigerator,Appliances,Cust-1014 (Rajesh Agarwal),East,Guwahati,2,39100.0,78200.0,18563.58,Online Store,Net Banking
+ORD-2024-10220,2024-06-22,RO Water Purifier,Appliances,Cust-1002 (Rohan Mehta),North,Delhi NCR,2,15480.0,30960.0,8426.17,Distributor,Credit Card
+ORD-2024-10221,2026-02-21,Noise-Canceling Earbuds,Electronics,Cust-1006 (Rahul Verma),South,Bengaluru,1,4820.0,4820.0,923.29,Amazon India,UPI
+ORD-2024-10222,2025-09-24,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1000 (Aarav Sharma),East,Kolkata,1,710.0,710.0,192.04,Amazon India,UPI
+ORD-2024-10223,2024-10-20,Fitness Smartwatch Gen 4,Electronics,Cust-1003 (Ananya Reddy),South,Bengaluru,1,9280.0,9280.0,2942.21,Amazon India,UPI
+ORD-2024-10224,2025-09-26,Executive Leather Journal Set,Books & Stationery,Cust-1014 (Rajesh Agarwal),West,Surat,1,1550.0,1550.0,383.58,Amazon India,Cash on Delivery
+ORD-2024-10225,2024-08-19,Silk Designer Kurta Set,Apparel & Fashion,Cust-1012 (Suresh Menon),North,Chandigarh,4,4570.0,18280.0,5650.89,Retail Store,Credit Card
+ORD-2024-10226,2025-10-14,Wireless Ergonomic Mouse,Electronics,Cust-1016 (Tarun Saxena),West,Mumbai,1,1450.0,1450.0,367.96,Distributor,UPI
+ORD-2024-10227,2026-07-11,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1005 (Neha Gupta),West,Mumbai,5,680.0,3400.0,1007.6,Distributor,UPI
+ORD-2024-10228,2024-07-31,Financial Modeling Handbook,Books & Stationery,Cust-1005 (Neha Gupta),North,Lucknow,3,1330.0,3990.0,988.36,Amazon India,Credit Card
+ORD-2024-10229,2026-05-19,Modular Storage Bookshelf,Home & Furniture,Cust-1001 (Priya Patel),North,Lucknow,3,6390.0,19170.0,3906.68,Online Store,UPI
+ORD-2024-10230,2024-03-18,Running Sports Shoes,Apparel & Fashion,Cust-1020 (Karan Kapoor),West,Mumbai,8,4110.0,32880.0,8135.81,Retail Store,Cash on Delivery
+ORD-2024-10231,2025-05-17,Convection Microwave Oven,Appliances,Cust-1012 (Suresh Menon),Central,Raipur,1,14070.0,14070.0,2976.87,Online Store,Credit Card
+ORD-2024-10232,2026-03-28,Inverter Split AC 1.5 Ton,Appliances,Cust-1010 (Deepak Kumar),South,Kochi,1,40240.0,40240.0,12111.64,Retail Store,UPI
+ORD-2024-10233,2024-11-11,Orthopedic Foam Mattress,Home & Furniture,Cust-1017 (Nisha Choudhury),East,Guwahati,1,18980.0,18980.0,3698.07,Amazon India,Credit Card
+ORD-2024-10234,2024-01-27,Slim Book Laptop 16GB,Electronics,Cust-1009 (Amit Joshi),East,Kolkata,1,72890.0,72890.0,22840.42,Retail Store,Net Banking
+ORD-2024-10235,2026-01-12,Financial Modeling Handbook,Books & Stationery,Cust-1009 (Amit Joshi),South,Hyderabad,1,1310.0,1310.0,320.59,Retail Store,UPI
+ORD-2024-10236,2024-06-20,Orthopedic Foam Mattress,Home & Furniture,Cust-1023 (Swati Pillai),West,Pune,2,18350.0,36700.0,7085.91,Amazon India,Credit Card
+ORD-2024-10237,2024-07-19,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1010 (Deepak Kumar),Central,Bhopal,1,11080.0,11080.0,2739.73,Retail Store,Credit Card
+ORD-2024-10238,2026-04-23,Financial Modeling Handbook,Books & Stationery,Cust-1005 (Neha Gupta),East,Patna,2,1270.0,2540.0,757.43,Direct Corporate,Cash on Delivery
+ORD-2024-10239,2024-10-25,Modular Storage Bookshelf,Home & Furniture,Cust-1003 (Ananya Reddy),East,Patna,1,6680.0,6680.0,1520.71,Distributor,UPI
+ORD-2024-10240,2025-07-12,RO Water Purifier,Appliances,Cust-1009 (Amit Joshi),South,Kochi,1,14770.0,14770.0,5026.32,Flipkart,UPI
+ORD-2024-10241,2026-05-18,Adjustable LED Desk Lamp,Home & Furniture,Cust-1012 (Suresh Menon),South,Kochi,1,1930.0,1930.0,430.3,Online Store,Cash on Delivery
+ORD-2024-10242,2025-05-05,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1011 (Meera Iyer),East,Kolkata,5,700.0,3500.0,1147.43,Flipkart,Net Banking
+ORD-2024-10243,2025-08-31,Pro Max 5G Smartphone,Electronics,Cust-1018 (Alok Mukherjee),Central,Indore,1,66750.0,66750.0,16043.46,Direct Corporate,Credit Card
+ORD-2024-10244,2025-02-13,Genuine Leather Boots,Apparel & Fashion,Cust-1018 (Alok Mukherjee),Central,Raipur,1,5760.0,5760.0,1254.18,Amazon India,UPI
+ORD-2024-10245,2025-01-18,Adjustable LED Desk Lamp,Home & Furniture,Cust-1015 (Sunita Kulkarni),West,Mumbai,2,2050.0,4100.0,1086.82,Online Store,Credit Card
+ORD-2024-10246,2024-03-28,Wireless Ergonomic Mouse,Electronics,Cust-1011 (Meera Iyer),South,Kochi,1,1450.0,1450.0,373.24,Retail Store,Credit Card
+ORD-2024-10247,2025-12-14,Orthopedic Foam Mattress,Home & Furniture,Cust-1020 (Karan Kapoor),North,Lucknow,1,17700.0,17700.0,5324.73,Online Store,Net Banking
+ORD-2024-10248,2026-08-10,RO Water Purifier,Appliances,Cust-1012 (Suresh Menon),East,Bhubaneswar,1,14990.0,14990.0,4124.86,Amazon India,UPI
+ORD-2024-10249,2025-11-04,Adjustable LED Desk Lamp,Home & Furniture,Cust-1012 (Suresh Menon),Central,Bhopal,2,1900.0,3800.0,811.47,Online Store,UPI
+ORD-2024-10250,2024-10-12,Fitness Smartwatch Gen 4,Electronics,Cust-1014 (Rajesh Agarwal),West,Pune,2,8640.0,17280.0,3659.61,Online Store,Credit Card
+ORD-2024-10251,2025-05-16,Executive Leather Journal Set,Books & Stationery,Cust-1014 (Rajesh Agarwal),West,Ahmedabad,2,1510.0,3020.0,844.97,Amazon India,Net Banking
+ORD-2024-10252,2025-12-23,Running Sports Shoes,Apparel & Fashion,Cust-1003 (Ananya Reddy),South,Hyderabad,3,4040.0,12120.0,2826.89,Online Store,Credit Card
+ORD-2024-10253,2025-06-07,Adjustable LED Desk Lamp,Home & Furniture,Cust-1017 (Nisha Choudhury),East,Bhubaneswar,2,2020.0,4040.0,1017.74,Online Store,UPI
+ORD-2024-10254,2024-07-10,Genuine Leather Boots,Apparel & Fashion,Cust-1006 (Rahul Verma),East,Bhubaneswar,4,6070.0,24280.0,8299.22,Flipkart,Cash on Delivery
+ORD-2024-10255,2025-06-01,Adjustable LED Desk Lamp,Home & Furniture,Cust-1002 (Rohan Mehta),East,Bhubaneswar,2,2040.0,4080.0,1316.95,Amazon India,Net Banking
+ORD-2024-10256,2024-08-13,Silk Designer Kurta Set,Apparel & Fashion,Cust-1017 (Nisha Choudhury),East,Guwahati,2,4400.0,8800.0,1835.64,Amazon India,Credit Card
+ORD-2024-10257,2024-10-01,Executive Leather Journal Set,Books & Stationery,Cust-1013 (Pooja Deshmukh),East,Bhubaneswar,3,1510.0,4530.0,1400.68,Online Store,Net Banking
+ORD-2024-10258,2026-02-08,Convection Microwave Oven,Appliances,Cust-1003 (Ananya Reddy),North,Chandigarh,1,14520.0,14520.0,3262.33,Flipkart,UPI
+ORD-2024-10259,2026-04-10,Executive Leather Journal Set,Books & Stationery,Cust-1006 (Rahul Verma),Central,Indore,2,1550.0,3100.0,783.64,Flipkart,Net Banking
+ORD-2024-10260,2025-08-06,Running Sports Shoes,Apparel & Fashion,Cust-1018 (Alok Mukherjee),West,Ahmedabad,2,3910.0,7820.0,1837.87,Retail Store,Debit Card
+ORD-2024-10261,2026-07-10,"Ultra 4K Smart TV 55""",Electronics,Cust-1022 (Manish Pandey),West,Pune,1,51270.0,51270.0,17236.5,Distributor,UPI
+ORD-2024-10262,2025-12-29,Italian Fit Formal Suit,Apparel & Fashion,Cust-1008 (Kavya Nair),Central,Raipur,3,13340.0,40020.0,10533.58,Amazon India,UPI
+ORD-2024-10263,2024-03-18,Noise-Canceling Earbuds,Electronics,Cust-1015 (Sunita Kulkarni),West,Surat,1,5010.0,5010.0,1699.28,Retail Store,UPI
+ORD-2024-10264,2026-03-03,Wireless Ergonomic Mouse,Electronics,Cust-1006 (Rahul Verma),North,Chandigarh,1,1570.0,1570.0,468.71,Direct Corporate,Net Banking
+ORD-2024-10265,2025-05-21,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1010 (Deepak Kumar),Central,Bhopal,1,2580.0,2580.0,717.88,Distributor,Net Banking
+ORD-2024-10266,2024-02-17,Wireless Ergonomic Mouse,Electronics,Cust-1014 (Rajesh Agarwal),South,Kochi,1,1540.0,1540.0,309.73,Online Store,Cash on Delivery
+ORD-2024-10267,2024-07-26,Convection Microwave Oven,Appliances,Cust-1002 (Rohan Mehta),West,Ahmedabad,2,13520.0,27040.0,6126.81,Retail Store,Debit Card
+ORD-2024-10268,2024-06-18,Noise-Canceling Earbuds,Electronics,Cust-1022 (Manish Pandey),East,Kolkata,1,5060.0,5060.0,1560.45,Online Store,UPI
+ORD-2024-10269,2024-03-20,RO Water Purifier,Appliances,Cust-1013 (Pooja Deshmukh),West,Mumbai,1,15070.0,15070.0,2736.39,Amazon India,Credit Card
+ORD-2024-10270,2024-08-22,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1012 (Suresh Menon),West,Pune,1,11770.0,11770.0,2745.58,Flipkart,Net Banking
+ORD-2024-10271,2024-05-16,Inverter Split AC 1.5 Ton,Appliances,Cust-1023 (Swati Pillai),East,Patna,1,42130.0,42130.0,12238.91,Online Store,Net Banking
+ORD-2024-10272,2026-07-30,Modular Storage Bookshelf,Home & Furniture,Cust-1024 (Gaurav Bhatia),North,Jaipur,4,6620.0,26480.0,5156.63,Online Store,Net Banking
+ORD-2024-10273,2024-12-25,Orthopedic Foam Mattress,Home & Furniture,Cust-1024 (Gaurav Bhatia),South,Hyderabad,1,19040.0,19040.0,5513.71,Distributor,UPI
+ORD-2024-10274,2026-05-17,Italian Fit Formal Suit,Apparel & Fashion,Cust-1007 (Siddharth Rao),West,Mumbai,2,13020.0,26040.0,7997.75,Retail Store,UPI
+ORD-2024-10275,2025-05-26,Python Data Analytics Guide,Books & Stationery,Cust-1012 (Suresh Menon),West,Pune,8,900.0,7200.0,2503.94,Distributor,Credit Card
+ORD-2024-10276,2025-01-09,Financial Modeling Handbook,Books & Stationery,Cust-1000 (Aarav Sharma),North,Delhi NCR,8,1330.0,10640.0,3308.64,Retail Store,UPI
+ORD-2024-10277,2024-03-02,Modular Storage Bookshelf,Home & Furniture,Cust-1002 (Rohan Mehta),East,Guwahati,3,6360.0,19080.0,5922.6,Amazon India,Credit Card
+ORD-2024-10278,2024-06-05,Silk Designer Kurta Set,Apparel & Fashion,Cust-1012 (Suresh Menon),South,Hyderabad,2,4410.0,8820.0,1892.27,Amazon India,Net Banking
+ORD-2024-10279,2025-10-27,Slim Book Laptop 16GB,Electronics,Cust-1002 (Rohan Mehta),North,Jaipur,1,73940.0,73940.0,23949.13,Distributor,UPI
+ORD-2024-10280,2025-09-18,Python Data Analytics Guide,Books & Stationery,Cust-1022 (Manish Pandey),North,Delhi NCR,3,880.0,2640.0,807.61,Online Store,UPI
+ORD-2024-10281,2025-05-23,Running Sports Shoes,Apparel & Fashion,Cust-1023 (Swati Pillai),West,Pune,4,4010.0,16040.0,3594.11,Flipkart,UPI
+ORD-2024-10282,2026-06-26,Pro Max 5G Smartphone,Electronics,Cust-1015 (Sunita Kulkarni),West,Mumbai,1,63930.0,63930.0,17200.7,Retail Store,UPI
+ORD-2024-10283,2025-05-26,Financial Modeling Handbook,Books & Stationery,Cust-1023 (Swati Pillai),Central,Raipur,1,1280.0,1280.0,252.79,Online Store,Net Banking
+ORD-2024-10284,2024-01-03,Pro Max 5G Smartphone,Electronics,Cust-1001 (Priya Patel),South,Chennai,1,63340.0,63340.0,15525.05,Amazon India,Debit Card
+ORD-2024-10285,2026-01-28,Solid Teak Dining Table,Home & Furniture,Cust-1018 (Alok Mukherjee),West,Mumbai,2,31430.0,62860.0,19011.94,Retail Store,Credit Card
+ORD-2024-10286,2026-07-12,"Ultra 4K Smart TV 55""",Electronics,Cust-1014 (Rajesh Agarwal),East,Kolkata,1,47640.0,47640.0,8947.17,Distributor,Net Banking
+ORD-2024-10287,2024-11-14,Silk Designer Kurta Set,Apparel & Fashion,Cust-1023 (Swati Pillai),Central,Bhopal,1,4520.0,4520.0,967.8,Amazon India,Credit Card
+ORD-2024-10288,2025-08-28,Solid Teak Dining Table,Home & Furniture,Cust-1013 (Pooja Deshmukh),South,Bengaluru,2,32740.0,65480.0,20646.86,Online Store,Credit Card
+ORD-2024-10289,2025-10-13,Slim Book Laptop 16GB,Electronics,Cust-1006 (Rahul Verma),West,Mumbai,1,68890.0,68890.0,22343.16,Amazon India,UPI
+ORD-2024-10290,2025-05-18,"Ultra 4K Smart TV 55""",Electronics,Cust-1022 (Manish Pandey),Central,Bhopal,1,50040.0,50040.0,16844.3,Distributor,Credit Card
+ORD-2024-10291,2026-02-04,Fitness Smartwatch Gen 4,Electronics,Cust-1013 (Pooja Deshmukh),North,Delhi NCR,1,8640.0,8640.0,2759.56,Amazon India,UPI
+ORD-2024-10292,2024-10-25,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1014 (Rajesh Agarwal),West,Ahmedabad,1,2610.0,2610.0,838.91,Retail Store,UPI
+ORD-2024-10293,2024-07-26,RO Water Purifier,Appliances,Cust-1003 (Ananya Reddy),West,Surat,1,14890.0,14890.0,3818.19,Amazon India,Cash on Delivery
+ORD-2024-10294,2024-07-31,Orthopedic Foam Mattress,Home & Furniture,Cust-1006 (Rahul Verma),West,Mumbai,4,18430.0,73720.0,14402.79,Flipkart,UPI
+ORD-2024-10295,2024-04-03,Convection Microwave Oven,Appliances,Cust-1012 (Suresh Menon),South,Bengaluru,1,13850.0,13850.0,3196.62,Distributor,Credit Card
+ORD-2024-10296,2025-07-17,Inverter Split AC 1.5 Ton,Appliances,Cust-1024 (Gaurav Bhatia),North,Delhi NCR,2,41840.0,83680.0,17051.04,Direct Corporate,UPI
+ORD-2024-10297,2026-04-23,Orthopedic Foam Mattress,Home & Furniture,Cust-1002 (Rohan Mehta),Central,Bhopal,5,18840.0,94200.0,18301.81,Online Store,UPI
+ORD-2024-10298,2026-07-13,Solid Teak Dining Table,Home & Furniture,Cust-1014 (Rajesh Agarwal),North,Delhi NCR,4,30690.0,122760.0,38977.63,Online Store,Debit Card
+ORD-2024-10299,2025-03-19,Adjustable LED Desk Lamp,Home & Furniture,Cust-1008 (Kavya Nair),South,Chennai,3,1900.0,5700.0,1193.45,Retail Store,Debit Card
+ORD-2024-10300,2024-02-05,Financial Modeling Handbook,Books & Stationery,Cust-1002 (Rohan Mehta),East,Kolkata,2,1320.0,2640.0,871.39,Retail Store,UPI
+ORD-2024-10301,2024-07-23,Financial Modeling Handbook,Books & Stationery,Cust-1015 (Sunita Kulkarni),East,Patna,4,1320.0,5280.0,1663.85,Amazon India,Credit Card
+ORD-2024-10302,2026-07-23,Executive Leather Journal Set,Books & Stationery,Cust-1024 (Gaurav Bhatia),South,Bengaluru,1,1480.0,1480.0,346.63,Retail Store,Net Banking
+ORD-2024-10303,2025-04-28,Executive Leather Journal Set,Books & Stationery,Cust-1021 (Shruti Banerjee),North,Jaipur,10,1540.0,15400.0,5321.88,Online Store,Credit Card
+ORD-2024-10304,2026-03-21,"Ultra 4K Smart TV 55""",Electronics,Cust-1007 (Siddharth Rao),South,Chennai,3,49370.0,148110.0,36439.77,Amazon India,Net Banking
+ORD-2024-10305,2025-12-15,Running Sports Shoes,Apparel & Fashion,Cust-1018 (Alok Mukherjee),Central,Indore,3,3810.0,11430.0,3898.6,Distributor,Net Banking
+ORD-2024-10306,2026-04-09,Modular Storage Bookshelf,Home & Furniture,Cust-1000 (Aarav Sharma),South,Chennai,2,6370.0,12740.0,2488.68,Amazon India,UPI
+ORD-2024-10307,2026-07-28,Financial Modeling Handbook,Books & Stationery,Cust-1000 (Aarav Sharma),West,Mumbai,1,1340.0,1340.0,281.63,Online Store,Net Banking
+ORD-2024-10308,2024-05-25,Fitness Smartwatch Gen 4,Electronics,Cust-1010 (Deepak Kumar),East,Kolkata,3,9320.0,27960.0,6808.55,Retail Store,UPI
+ORD-2024-10309,2024-06-10,Adjustable LED Desk Lamp,Home & Furniture,Cust-1007 (Siddharth Rao),Central,Bhopal,1,2030.0,2030.0,699.71,Amazon India,Net Banking
+ORD-2024-10310,2025-01-22,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),Central,Bhopal,3,2410.0,7230.0,2467.56,Direct Corporate,UPI
+ORD-2024-10311,2025-09-08,Running Sports Shoes,Apparel & Fashion,Cust-1023 (Swati Pillai),South,Hyderabad,2,3890.0,7780.0,2639.26,Online Store,UPI
+ORD-2024-10312,2024-11-23,Inverter Split AC 1.5 Ton,Appliances,Cust-1000 (Aarav Sharma),West,Surat,1,43350.0,43350.0,13177.47,Retail Store,UPI
+ORD-2024-10313,2024-03-10,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1005 (Neha Gupta),East,Guwahati,3,2570.0,7710.0,1450.91,Distributor,Credit Card
+ORD-2024-10314,2025-01-22,Running Sports Shoes,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),Central,Raipur,4,3950.0,15800.0,4962.53,Amazon India,UPI
+ORD-2024-10315,2024-03-16,Slim Book Laptop 16GB,Electronics,Cust-1012 (Suresh Menon),West,Pune,1,69020.0,69020.0,13652.38,Online Store,UPI
+ORD-2024-10316,2026-07-08,Slim Book Laptop 16GB,Electronics,Cust-1020 (Karan Kapoor),North,Chandigarh,1,73180.0,73180.0,19177.94,Online Store,Debit Card
+ORD-2024-10317,2024-06-09,Pro Max 5G Smartphone,Electronics,Cust-1023 (Swati Pillai),Central,Raipur,3,63900.0,191700.0,47844.02,Amazon India,Credit Card
+ORD-2024-10318,2024-10-31,Inverter Split AC 1.5 Ton,Appliances,Cust-1011 (Meera Iyer),South,Bengaluru,1,40110.0,40110.0,12946.52,Online Store,UPI
+ORD-2024-10319,2026-04-23,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1015 (Sunita Kulkarni),West,Mumbai,1,680.0,680.0,142.15,Flipkart,UPI
+ORD-2024-10320,2025-02-11,Adjustable LED Desk Lamp,Home & Furniture,Cust-1011 (Meera Iyer),East,Bhubaneswar,1,2080.0,2080.0,601.36,Distributor,UPI
+ORD-2024-10321,2025-04-01,Slim Book Laptop 16GB,Electronics,Cust-1004 (Vikram Singh),Central,Indore,1,72060.0,72060.0,23225.18,Flipkart,Credit Card
+ORD-2024-10322,2024-03-28,Running Sports Shoes,Apparel & Fashion,Cust-1016 (Tarun Saxena),North,Chandigarh,3,3960.0,11880.0,2597.88,Retail Store,Credit Card
+ORD-2024-10323,2026-06-06,Modular Storage Bookshelf,Home & Furniture,Cust-1003 (Ananya Reddy),North,Jaipur,2,6750.0,13500.0,2611.2,Distributor,Credit Card
+ORD-2024-10324,2024-06-20,Front Load Washing Machine,Appliances,Cust-1020 (Karan Kapoor),East,Bhubaneswar,1,33210.0,33210.0,11557.33,Online Store,Credit Card
+ORD-2024-10325,2024-11-23,Pro Max 5G Smartphone,Electronics,Cust-1000 (Aarav Sharma),West,Surat,1,64270.0,64270.0,15131.83,Flipkart,Credit Card
+ORD-2024-10326,2025-06-19,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1018 (Alok Mukherjee),North,Delhi NCR,1,11400.0,11400.0,3191.42,Flipkart,Net Banking
+ORD-2024-10327,2026-06-07,Executive Leather Journal Set,Books & Stationery,Cust-1015 (Sunita Kulkarni),Central,Raipur,1,1560.0,1560.0,454.45,Online Store,UPI
+ORD-2024-10328,2024-05-27,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1023 (Swati Pillai),South,Bengaluru,4,670.0,2680.0,633.43,Retail Store,UPI
+ORD-2024-10329,2025-01-16,Slim Book Laptop 16GB,Electronics,Cust-1007 (Siddharth Rao),East,Kolkata,1,74800.0,74800.0,17028.89,Online Store,Cash on Delivery
+ORD-2024-10330,2025-03-29,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1013 (Pooja Deshmukh),East,Bhubaneswar,2,2560.0,5120.0,999.32,Flipkart,Net Banking
+ORD-2024-10331,2026-06-07,Silk Designer Kurta Set,Apparel & Fashion,Cust-1004 (Vikram Singh),Central,Bhopal,1,4510.0,4510.0,1050.34,Flipkart,Credit Card
+ORD-2024-10332,2025-08-05,"Ultra 4K Smart TV 55""",Electronics,Cust-1014 (Rajesh Agarwal),South,Bengaluru,2,47490.0,94980.0,30610.73,Online Store,UPI
+ORD-2024-10333,2024-07-22,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1007 (Siddharth Rao),North,Delhi NCR,2,2580.0,5160.0,1486.18,Retail Store,Credit Card
+ORD-2024-10334,2024-06-30,Modular Storage Bookshelf,Home & Furniture,Cust-1009 (Amit Joshi),West,Mumbai,1,6530.0,6530.0,2105.28,Online Store,UPI
+ORD-2024-10335,2026-05-24,Financial Modeling Handbook,Books & Stationery,Cust-1016 (Tarun Saxena),West,Surat,2,1350.0,2700.0,797.06,Online Store,Net Banking
+ORD-2024-10336,2026-02-24,Noise-Canceling Earbuds,Electronics,Cust-1008 (Kavya Nair),North,Jaipur,1,5200.0,5200.0,1467.41,Amazon India,Debit Card
+ORD-2024-10337,2025-12-30,Genuine Leather Boots,Apparel & Fashion,Cust-1009 (Amit Joshi),South,Kochi,4,6240.0,24960.0,6440.42,Amazon India,Net Banking
+ORD-2024-10338,2025-02-10,Python Data Analytics Guide,Books & Stationery,Cust-1009 (Amit Joshi),West,Ahmedabad,10,850.0,8500.0,2926.57,Amazon India,Credit Card
+ORD-2024-10339,2024-12-10,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1004 (Vikram Singh),West,Pune,1,2590.0,2590.0,779.29,Amazon India,UPI
+ORD-2024-10340,2024-02-28,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1008 (Kavya Nair),East,Patna,3,710.0,2130.0,644.58,Distributor,Credit Card
+ORD-2024-10341,2026-01-24,Fitness Smartwatch Gen 4,Electronics,Cust-1021 (Shruti Banerjee),South,Kochi,1,9190.0,9190.0,1950.9,Retail Store,UPI
+ORD-2024-10342,2024-06-23,Financial Modeling Handbook,Books & Stationery,Cust-1021 (Shruti Banerjee),Central,Indore,2,1270.0,2540.0,777.13,Distributor,Credit Card
+ORD-2024-10343,2024-08-15,Italian Fit Formal Suit,Apparel & Fashion,Cust-1008 (Kavya Nair),West,Ahmedabad,1,13320.0,13320.0,4182.15,Amazon India,Credit Card
+ORD-2024-10344,2024-04-30,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1006 (Rahul Verma),North,Chandigarh,2,11920.0,23840.0,8118.26,Amazon India,Debit Card
+ORD-2024-10345,2025-01-25,Executive Leather Journal Set,Books & Stationery,Cust-1013 (Pooja Deshmukh),South,Hyderabad,4,1490.0,5960.0,1225.57,Direct Corporate,Debit Card
+ORD-2024-10346,2025-04-13,Convection Microwave Oven,Appliances,Cust-1010 (Deepak Kumar),West,Pune,1,14510.0,14510.0,2811.14,Amazon India,UPI
+ORD-2024-10347,2024-10-07,Front Load Washing Machine,Appliances,Cust-1019 (Divya Malhotra),North,Jaipur,1,34760.0,34760.0,10896.77,Retail Store,Credit Card
+ORD-2024-10348,2025-03-15,Adjustable LED Desk Lamp,Home & Furniture,Cust-1024 (Gaurav Bhatia),North,Lucknow,2,1900.0,3800.0,1156.01,Flipkart,UPI
+ORD-2024-10349,2025-11-23,Wireless Ergonomic Mouse,Electronics,Cust-1003 (Ananya Reddy),West,Pune,1,1530.0,1530.0,503.5,Retail Store,Credit Card
+ORD-2024-10350,2024-06-20,Pro Max 5G Smartphone,Electronics,Cust-1010 (Deepak Kumar),Central,Raipur,1,63690.0,63690.0,19344.65,Retail Store,Credit Card
+ORD-2024-10351,2024-05-17,Genuine Leather Boots,Apparel & Fashion,Cust-1007 (Siddharth Rao),East,Kolkata,1,5910.0,5910.0,2016.34,Online Store,Cash on Delivery
+ORD-2024-10352,2024-08-04,Fitness Smartwatch Gen 4,Electronics,Cust-1020 (Karan Kapoor),North,Chandigarh,1,9000.0,9000.0,2708.0,Retail Store,Credit Card
+ORD-2024-10353,2024-02-19,Python Data Analytics Guide,Books & Stationery,Cust-1014 (Rajesh Agarwal),North,Chandigarh,3,910.0,2730.0,500.56,Retail Store,Credit Card
+ORD-2024-10354,2025-04-30,Front Load Washing Machine,Appliances,Cust-1019 (Divya Malhotra),North,Lucknow,1,35170.0,35170.0,8130.95,Amazon India,UPI
+ORD-2024-10355,2026-04-30,Fitness Smartwatch Gen 4,Electronics,Cust-1006 (Rahul Verma),North,Chandigarh,1,9200.0,9200.0,1834.32,Amazon India,Net Banking
+ORD-2024-10356,2026-05-01,Financial Modeling Handbook,Books & Stationery,Cust-1006 (Rahul Verma),Central,Bhopal,2,1280.0,2560.0,530.59,Amazon India,Credit Card
+ORD-2024-10357,2024-08-28,Pro Max 5G Smartphone,Electronics,Cust-1002 (Rohan Mehta),East,Bhubaneswar,2,66110.0,132220.0,42573.45,Flipkart,UPI
+ORD-2024-10358,2026-01-10,Slim Book Laptop 16GB,Electronics,Cust-1001 (Priya Patel),West,Surat,1,73550.0,73550.0,25458.56,Online Store,UPI
+ORD-2024-10359,2024-02-10,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1000 (Aarav Sharma),North,Delhi NCR,1,2570.0,2570.0,785.27,Distributor,Credit Card
+ORD-2024-10360,2024-06-23,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1010 (Deepak Kumar),North,Lucknow,8,2600.0,20800.0,4692.74,Online Store,Credit Card
+ORD-2024-10361,2025-04-12,Genuine Leather Boots,Apparel & Fashion,Cust-1004 (Vikram Singh),South,Bengaluru,2,6110.0,12220.0,3075.72,Amazon India,UPI
+ORD-2024-10362,2026-05-14,Inverter Split AC 1.5 Ton,Appliances,Cust-1019 (Divya Malhotra),East,Bhubaneswar,1,41650.0,41650.0,13177.44,Retail Store,UPI
+ORD-2024-10363,2024-01-30,Double Door Refrigerator,Appliances,Cust-1008 (Kavya Nair),North,Delhi NCR,1,40540.0,40540.0,10131.69,Amazon India,UPI
+ORD-2024-10364,2026-06-08,Financial Modeling Handbook,Books & Stationery,Cust-1022 (Manish Pandey),Central,Raipur,3,1360.0,4080.0,969.05,Amazon India,Credit Card
+ORD-2024-10365,2026-01-14,Double Door Refrigerator,Appliances,Cust-1001 (Priya Patel),Central,Raipur,1,38300.0,38300.0,9399.93,Online Store,Debit Card
+ORD-2024-10366,2025-06-01,Adjustable LED Desk Lamp,Home & Furniture,Cust-1008 (Kavya Nair),South,Hyderabad,1,2070.0,2070.0,545.61,Online Store,UPI
+ORD-2024-10367,2025-10-20,Adjustable LED Desk Lamp,Home & Furniture,Cust-1002 (Rohan Mehta),Central,Bhopal,1,2060.0,2060.0,526.35,Distributor,Credit Card
+ORD-2024-10368,2024-05-01,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1019 (Divya Malhotra),North,Delhi NCR,2,11040.0,22080.0,6065.65,Direct Corporate,Credit Card
+ORD-2024-10369,2026-06-30,Financial Modeling Handbook,Books & Stationery,Cust-1014 (Rajesh Agarwal),North,Jaipur,2,1320.0,2640.0,628.18,Retail Store,Net Banking
+ORD-2024-10370,2025-09-06,Orthopedic Foam Mattress,Home & Furniture,Cust-1010 (Deepak Kumar),South,Bengaluru,1,18900.0,18900.0,5841.7,Retail Store,Credit Card
+ORD-2024-10371,2026-03-30,Running Sports Shoes,Apparel & Fashion,Cust-1004 (Vikram Singh),South,Kochi,3,4010.0,12030.0,2259.02,Flipkart,Net Banking
+ORD-2024-10372,2025-02-23,Slim Book Laptop 16GB,Electronics,Cust-1014 (Rajesh Agarwal),East,Bhubaneswar,1,73300.0,73300.0,24785.42,Flipkart,UPI
+ORD-2024-10373,2024-12-12,Noise-Canceling Earbuds,Electronics,Cust-1014 (Rajesh Agarwal),North,Chandigarh,1,4770.0,4770.0,1403.64,Amazon India,Cash on Delivery
+ORD-2024-10374,2024-05-17,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1016 (Tarun Saxena),Central,Bhopal,1,11530.0,11530.0,3908.7,Flipkart,Debit Card
+ORD-2024-10375,2025-12-09,Financial Modeling Handbook,Books & Stationery,Cust-1010 (Deepak Kumar),Central,Raipur,1,1330.0,1330.0,326.99,Amazon India,UPI
+ORD-2024-10376,2025-09-15,Convection Microwave Oven,Appliances,Cust-1013 (Pooja Deshmukh),South,Chennai,1,13860.0,13860.0,3187.93,Amazon India,Debit Card
+ORD-2024-10377,2025-06-08,Running Sports Shoes,Apparel & Fashion,Cust-1006 (Rahul Verma),South,Chennai,3,4140.0,12420.0,4210.84,Amazon India,UPI
+ORD-2024-10378,2024-12-19,Front Load Washing Machine,Appliances,Cust-1017 (Nisha Choudhury),North,Lucknow,1,34510.0,34510.0,8103.11,Retail Store,Credit Card
+ORD-2024-10379,2025-11-14,Modular Storage Bookshelf,Home & Furniture,Cust-1000 (Aarav Sharma),Central,Indore,4,6360.0,25440.0,8074.96,Retail Store,UPI
+ORD-2024-10380,2024-02-27,Convection Microwave Oven,Appliances,Cust-1001 (Priya Patel),West,Pune,1,14350.0,14350.0,3282.2,Amazon India,UPI
+ORD-2024-10381,2026-02-10,Python Data Analytics Guide,Books & Stationery,Cust-1023 (Swati Pillai),Central,Indore,2,890.0,1780.0,506.83,Amazon India,UPI
+ORD-2024-10382,2025-06-07,Silk Designer Kurta Set,Apparel & Fashion,Cust-1000 (Aarav Sharma),West,Mumbai,1,4690.0,4690.0,1606.98,Flipkart,UPI
+ORD-2024-10383,2026-06-08,Solid Teak Dining Table,Home & Furniture,Cust-1023 (Swati Pillai),Central,Raipur,3,33320.0,99960.0,28998.15,Amazon India,Net Banking
+ORD-2024-10384,2024-07-17,Genuine Leather Boots,Apparel & Fashion,Cust-1012 (Suresh Menon),South,Bengaluru,3,5810.0,17430.0,3691.43,Online Store,UPI
+ORD-2024-10385,2024-09-27,Front Load Washing Machine,Appliances,Cust-1004 (Vikram Singh),South,Bengaluru,1,34790.0,34790.0,8217.25,Distributor,Credit Card
+ORD-2024-10386,2026-03-03,Executive Leather Journal Set,Books & Stationery,Cust-1005 (Neha Gupta),West,Pune,2,1500.0,3000.0,722.62,Amazon India,Net Banking
+ORD-2024-10387,2024-06-12,Modular Storage Bookshelf,Home & Furniture,Cust-1010 (Deepak Kumar),South,Hyderabad,1,6520.0,6520.0,1418.78,Retail Store,UPI
+ORD-2024-10388,2026-02-09,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1021 (Shruti Banerjee),North,Delhi NCR,4,730.0,2920.0,1012.63,Retail Store,UPI
+ORD-2024-10389,2025-10-19,Financial Modeling Handbook,Books & Stationery,Cust-1008 (Kavya Nair),North,Chandigarh,3,1360.0,4080.0,957.0,Amazon India,UPI
+ORD-2024-10390,2026-07-22,Executive Leather Journal Set,Books & Stationery,Cust-1010 (Deepak Kumar),West,Pune,2,1500.0,3000.0,788.27,Amazon India,Debit Card
+ORD-2024-10391,2024-06-20,Python Data Analytics Guide,Books & Stationery,Cust-1003 (Ananya Reddy),South,Kochi,1,910.0,910.0,261.19,Online Store,Net Banking
+ORD-2024-10392,2026-06-18,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1002 (Rohan Mehta),West,Mumbai,1,11780.0,11780.0,3040.04,Online Store,UPI
+ORD-2024-10393,2024-09-14,Python Data Analytics Guide,Books & Stationery,Cust-1020 (Karan Kapoor),East,Guwahati,1,910.0,910.0,203.81,Retail Store,UPI
+ORD-2024-10394,2025-02-02,Fitness Smartwatch Gen 4,Electronics,Cust-1022 (Manish Pandey),Central,Indore,1,8550.0,8550.0,1630.92,Flipkart,UPI
+ORD-2024-10395,2025-05-29,Slim Book Laptop 16GB,Electronics,Cust-1012 (Suresh Menon),East,Guwahati,1,74580.0,74580.0,14521.17,Flipkart,UPI
+ORD-2024-10396,2024-06-09,Financial Modeling Handbook,Books & Stationery,Cust-1020 (Karan Kapoor),Central,Bhopal,1,1250.0,1250.0,394.47,Online Store,Credit Card
+ORD-2024-10397,2026-07-25,Silk Designer Kurta Set,Apparel & Fashion,Cust-1017 (Nisha Choudhury),North,Chandigarh,2,4520.0,9040.0,1816.59,Amazon India,UPI
+ORD-2024-10398,2024-08-03,Italian Fit Formal Suit,Apparel & Fashion,Cust-1007 (Siddharth Rao),South,Chennai,2,12890.0,25780.0,6886.71,Amazon India,UPI
+ORD-2024-10399,2024-04-27,RO Water Purifier,Appliances,Cust-1020 (Karan Kapoor),Central,Bhopal,2,16040.0,32080.0,10859.17,Amazon India,UPI
+ORD-2024-10400,2024-03-09,Silk Designer Kurta Set,Apparel & Fashion,Cust-1021 (Shruti Banerjee),West,Pune,2,4360.0,8720.0,2980.16,Amazon India,UPI
+ORD-2024-10401,2025-09-26,"Ultra 4K Smart TV 55""",Electronics,Cust-1018 (Alok Mukherjee),West,Pune,1,48110.0,48110.0,13700.68,Amazon India,Net Banking
+ORD-2024-10402,2025-03-14,Inverter Split AC 1.5 Ton,Appliances,Cust-1011 (Meera Iyer),East,Patna,1,41220.0,41220.0,12410.26,Online Store,Net Banking
+ORD-2024-10403,2026-06-17,Adjustable LED Desk Lamp,Home & Furniture,Cust-1020 (Karan Kapoor),North,Jaipur,3,1990.0,5970.0,1568.83,Amazon India,Net Banking
+ORD-2024-10404,2026-05-29,RO Water Purifier,Appliances,Cust-1016 (Tarun Saxena),North,Delhi NCR,1,15030.0,15030.0,4306.47,Amazon India,Net Banking
+ORD-2024-10405,2025-08-15,Modular Storage Bookshelf,Home & Furniture,Cust-1020 (Karan Kapoor),Central,Bhopal,1,6310.0,6310.0,1415.36,Flipkart,UPI
+ORD-2024-10406,2024-08-16,Executive Leather Journal Set,Books & Stationery,Cust-1021 (Shruti Banerjee),West,Mumbai,2,1440.0,2880.0,562.74,Online Store,Cash on Delivery
+ORD-2024-10407,2025-09-20,RO Water Purifier,Appliances,Cust-1004 (Vikram Singh),Central,Raipur,1,14940.0,14940.0,4127.63,Flipkart,Credit Card
+ORD-2024-10408,2025-01-02,"Ultra 4K Smart TV 55""",Electronics,Cust-1021 (Shruti Banerjee),South,Bengaluru,1,50280.0,50280.0,11310.02,Online Store,Debit Card
+ORD-2024-10409,2025-01-04,Adjustable LED Desk Lamp,Home & Furniture,Cust-1022 (Manish Pandey),West,Mumbai,4,2080.0,8320.0,1554.04,Direct Corporate,Credit Card
+ORD-2024-10410,2024-10-07,Running Sports Shoes,Apparel & Fashion,Cust-1016 (Tarun Saxena),West,Mumbai,1,4020.0,4020.0,1170.32,Retail Store,Cash on Delivery
+ORD-2024-10411,2024-08-16,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1016 (Tarun Saxena),East,Kolkata,4,690.0,2760.0,725.24,Distributor,Credit Card
+ORD-2024-10412,2024-08-23,Fitness Smartwatch Gen 4,Electronics,Cust-1021 (Shruti Banerjee),West,Mumbai,1,9130.0,9130.0,1933.5,Online Store,Net Banking
+ORD-2024-10413,2026-01-07,Noise-Canceling Earbuds,Electronics,Cust-1007 (Siddharth Rao),East,Kolkata,1,5090.0,5090.0,1427.41,Online Store,Credit Card
+ORD-2024-10414,2024-06-13,RO Water Purifier,Appliances,Cust-1016 (Tarun Saxena),West,Pune,1,14780.0,14780.0,2800.88,Direct Corporate,Credit Card
+ORD-2024-10415,2025-07-31,Wireless Ergonomic Mouse,Electronics,Cust-1019 (Divya Malhotra),South,Kochi,2,1530.0,3060.0,1043.56,Direct Corporate,Debit Card
+ORD-2024-10416,2024-06-23,Double Door Refrigerator,Appliances,Cust-1005 (Neha Gupta),South,Hyderabad,1,39290.0,39290.0,12552.25,Flipkart,UPI
+ORD-2024-10417,2025-04-09,Python Data Analytics Guide,Books & Stationery,Cust-1004 (Vikram Singh),South,Kochi,1,870.0,870.0,172.66,Amazon India,UPI
+ORD-2024-10418,2026-07-12,Python Data Analytics Guide,Books & Stationery,Cust-1021 (Shruti Banerjee),North,Chandigarh,2,930.0,1860.0,572.7,Online Store,Credit Card
+ORD-2024-10419,2026-04-27,Wireless Ergonomic Mouse,Electronics,Cust-1007 (Siddharth Rao),North,Chandigarh,1,1520.0,1520.0,369.31,Distributor,Credit Card
+ORD-2024-10420,2026-02-26,Orthopedic Foam Mattress,Home & Furniture,Cust-1013 (Pooja Deshmukh),Central,Indore,3,18660.0,55980.0,17323.66,Online Store,Credit Card
+ORD-2024-10421,2024-08-26,Slim Book Laptop 16GB,Electronics,Cust-1018 (Alok Mukherjee),North,Delhi NCR,1,73210.0,73210.0,16386.36,Amazon India,Credit Card
+ORD-2024-10422,2025-01-19,Convection Microwave Oven,Appliances,Cust-1008 (Kavya Nair),Central,Bhopal,1,13870.0,13870.0,3501.23,Distributor,Credit Card
+ORD-2024-10423,2025-01-09,Executive Leather Journal Set,Books & Stationery,Cust-1015 (Sunita Kulkarni),Central,Raipur,1,1570.0,1570.0,336.97,Online Store,Credit Card
+ORD-2024-10424,2025-05-10,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1023 (Swati Pillai),South,Bengaluru,3,2520.0,7560.0,1872.48,Online Store,Net Banking
+ORD-2024-10425,2024-06-14,"Ultra 4K Smart TV 55""",Electronics,Cust-1021 (Shruti Banerjee),Central,Raipur,1,49040.0,49040.0,15503.76,Flipkart,UPI
+ORD-2024-10426,2025-10-13,Pro Max 5G Smartphone,Electronics,Cust-1008 (Kavya Nair),North,Delhi NCR,1,67100.0,67100.0,18925.0,Online Store,UPI
+ORD-2024-10427,2024-02-08,Adjustable LED Desk Lamp,Home & Furniture,Cust-1024 (Gaurav Bhatia),Central,Indore,2,2020.0,4040.0,1215.93,Flipkart,Credit Card
+ORD-2024-10428,2025-03-25,"Ultra 4K Smart TV 55""",Electronics,Cust-1019 (Divya Malhotra),South,Bengaluru,2,50720.0,101440.0,27194.65,Amazon India,Credit Card
+ORD-2024-10429,2025-09-21,Inverter Split AC 1.5 Ton,Appliances,Cust-1024 (Gaurav Bhatia),North,Lucknow,1,41410.0,41410.0,14322.05,Retail Store,Credit Card
+ORD-2024-10430,2025-02-19,Financial Modeling Handbook,Books & Stationery,Cust-1023 (Swati Pillai),North,Lucknow,3,1300.0,3900.0,747.49,Flipkart,Debit Card
+ORD-2024-10431,2024-12-22,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1008 (Kavya Nair),East,Kolkata,8,2430.0,19440.0,5002.09,Online Store,Credit Card
+ORD-2024-10432,2025-07-26,Fitness Smartwatch Gen 4,Electronics,Cust-1022 (Manish Pandey),West,Ahmedabad,2,8810.0,17620.0,5576.73,Retail Store,UPI
+ORD-2024-10433,2025-05-10,Convection Microwave Oven,Appliances,Cust-1015 (Sunita Kulkarni),Central,Indore,1,14640.0,14640.0,3781.84,Online Store,UPI
+ORD-2024-10434,2025-10-10,Front Load Washing Machine,Appliances,Cust-1022 (Manish Pandey),Central,Indore,1,35540.0,35540.0,8530.54,Flipkart,UPI
+ORD-2024-10435,2024-04-05,Orthopedic Foam Mattress,Home & Furniture,Cust-1018 (Alok Mukherjee),West,Pune,5,17720.0,88600.0,23125.88,Retail Store,Debit Card
+ORD-2024-10436,2025-11-30,Double Door Refrigerator,Appliances,Cust-1007 (Siddharth Rao),West,Pune,1,39820.0,39820.0,8806.18,Online Store,UPI
+ORD-2024-10437,2025-09-25,Italian Fit Formal Suit,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),East,Kolkata,1,13360.0,13360.0,2583.06,Distributor,Cash on Delivery
+ORD-2024-10438,2026-05-18,Orthopedic Foam Mattress,Home & Furniture,Cust-1015 (Sunita Kulkarni),Central,Bhopal,2,18720.0,37440.0,13010.83,Online Store,Net Banking
+ORD-2024-10439,2025-06-07,Genuine Leather Boots,Apparel & Fashion,Cust-1017 (Nisha Choudhury),East,Guwahati,2,5830.0,11660.0,2206.13,Online Store,UPI
+ORD-2024-10440,2026-05-31,Double Door Refrigerator,Appliances,Cust-1021 (Shruti Banerjee),North,Delhi NCR,1,40750.0,40750.0,10522.14,Online Store,Credit Card
+ORD-2024-10441,2024-11-29,Running Sports Shoes,Apparel & Fashion,Cust-1019 (Divya Malhotra),West,Surat,1,4140.0,4140.0,930.19,Retail Store,UPI
+ORD-2024-10442,2025-03-10,Double Door Refrigerator,Appliances,Cust-1005 (Neha Gupta),West,Surat,1,39680.0,39680.0,12905.34,Amazon India,Cash on Delivery
+ORD-2024-10443,2025-12-03,Inverter Split AC 1.5 Ton,Appliances,Cust-1004 (Vikram Singh),East,Bhubaneswar,2,42930.0,85860.0,23560.65,Flipkart,Net Banking
+ORD-2024-10444,2025-04-29,"Ultra 4K Smart TV 55""",Electronics,Cust-1023 (Swati Pillai),Central,Raipur,1,48610.0,48610.0,16131.52,Retail Store,Credit Card
+ORD-2024-10445,2024-09-13,Python Data Analytics Guide,Books & Stationery,Cust-1020 (Karan Kapoor),West,Surat,3,890.0,2670.0,507.85,Online Store,Net Banking
+ORD-2024-10446,2024-09-23,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1003 (Ananya Reddy),North,Chandigarh,5,2510.0,12550.0,2808.83,Retail Store,Credit Card
+ORD-2024-10447,2025-09-12,RO Water Purifier,Appliances,Cust-1010 (Deepak Kumar),West,Ahmedabad,1,15620.0,15620.0,3275.07,Amazon India,Credit Card
+ORD-2024-10448,2026-01-24,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1020 (Karan Kapoor),South,Chennai,1,11360.0,11360.0,3264.76,Flipkart,UPI
+ORD-2024-10449,2025-10-08,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1010 (Deepak Kumar),South,Hyderabad,1,720.0,720.0,149.43,Amazon India,Net Banking
+ORD-2024-10450,2025-09-11,Orthopedic Foam Mattress,Home & Furniture,Cust-1014 (Rajesh Agarwal),Central,Raipur,3,19220.0,57660.0,19580.81,Retail Store,UPI
+ORD-2024-10451,2024-01-24,Front Load Washing Machine,Appliances,Cust-1005 (Neha Gupta),North,Jaipur,2,35060.0,70120.0,20974.19,Retail Store,UPI
+ORD-2024-10452,2026-06-18,Modular Storage Bookshelf,Home & Furniture,Cust-1008 (Kavya Nair),North,Delhi NCR,3,6210.0,18630.0,5012.91,Amazon India,UPI
+ORD-2024-10453,2026-06-25,Orthopedic Foam Mattress,Home & Furniture,Cust-1016 (Tarun Saxena),South,Chennai,3,18000.0,54000.0,13788.21,Flipkart,UPI
+ORD-2024-10454,2025-11-10,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1004 (Vikram Singh),West,Surat,2,2590.0,5180.0,1699.31,Direct Corporate,Credit Card
+ORD-2024-10455,2024-06-30,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1020 (Karan Kapoor),Central,Raipur,2,710.0,1420.0,391.75,Amazon India,Debit Card
+ORD-2024-10456,2025-05-08,Financial Modeling Handbook,Books & Stationery,Cust-1009 (Amit Joshi),West,Pune,2,1340.0,2680.0,649.05,Online Store,Credit Card
+ORD-2024-10457,2026-02-15,Convection Microwave Oven,Appliances,Cust-1009 (Amit Joshi),East,Guwahati,1,13700.0,13700.0,4067.82,Online Store,Credit Card
+ORD-2024-10458,2024-10-26,Financial Modeling Handbook,Books & Stationery,Cust-1012 (Suresh Menon),Central,Bhopal,2,1340.0,2680.0,568.31,Online Store,Net Banking
+ORD-2024-10459,2025-10-23,Adjustable LED Desk Lamp,Home & Furniture,Cust-1022 (Manish Pandey),Central,Raipur,1,1940.0,1940.0,555.43,Amazon India,UPI
+ORD-2024-10460,2026-01-30,Executive Leather Journal Set,Books & Stationery,Cust-1020 (Karan Kapoor),West,Mumbai,4,1490.0,5960.0,1257.61,Retail Store,Credit Card
+ORD-2024-10461,2025-12-18,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1005 (Neha Gupta),Central,Indore,1,680.0,680.0,128.14,Direct Corporate,UPI
+ORD-2024-10462,2024-05-08,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1009 (Amit Joshi),West,Surat,1,11190.0,11190.0,2953.14,Flipkart,Credit Card
+ORD-2024-10463,2025-01-15,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1024 (Gaurav Bhatia),North,Lucknow,4,11300.0,45200.0,15448.43,Retail Store,Credit Card
+ORD-2024-10464,2024-07-04,Convection Microwave Oven,Appliances,Cust-1024 (Gaurav Bhatia),South,Kochi,2,14440.0,28880.0,5797.18,Direct Corporate,UPI
+ORD-2024-10465,2024-02-04,Double Door Refrigerator,Appliances,Cust-1012 (Suresh Menon),South,Kochi,1,39820.0,39820.0,11676.07,Amazon India,UPI
+ORD-2024-10466,2024-11-26,Inverter Split AC 1.5 Ton,Appliances,Cust-1006 (Rahul Verma),East,Patna,1,43030.0,43030.0,8638.88,Retail Store,UPI
+ORD-2024-10467,2025-11-13,Inverter Split AC 1.5 Ton,Appliances,Cust-1012 (Suresh Menon),West,Mumbai,1,40890.0,40890.0,7464.94,Flipkart,UPI
+ORD-2024-10468,2024-02-13,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1015 (Sunita Kulkarni),South,Chennai,1,710.0,710.0,220.84,Online Store,Credit Card
+ORD-2024-10469,2026-02-16,Pro Max 5G Smartphone,Electronics,Cust-1015 (Sunita Kulkarni),North,Jaipur,1,64060.0,64060.0,17371.79,Online Store,Cash on Delivery
+ORD-2024-10470,2026-03-18,Genuine Leather Boots,Apparel & Fashion,Cust-1001 (Priya Patel),South,Hyderabad,1,6140.0,6140.0,1499.52,Retail Store,Credit Card
+ORD-2024-10471,2024-10-28,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1019 (Divya Malhotra),East,Patna,1,680.0,680.0,162.59,Distributor,Credit Card
+ORD-2024-10472,2024-03-11,Financial Modeling Handbook,Books & Stationery,Cust-1024 (Gaurav Bhatia),East,Kolkata,4,1290.0,5160.0,1403.9,Amazon India,UPI
+ORD-2024-10473,2024-07-08,Fitness Smartwatch Gen 4,Electronics,Cust-1006 (Rahul Verma),North,Chandigarh,1,9320.0,9320.0,2055.93,Amazon India,Credit Card
+ORD-2024-10474,2025-07-18,RO Water Purifier,Appliances,Cust-1001 (Priya Patel),North,Delhi NCR,1,15160.0,15160.0,3558.72,Flipkart,UPI
+ORD-2024-10475,2026-06-13,"Ultra 4K Smart TV 55""",Electronics,Cust-1016 (Tarun Saxena),East,Guwahati,1,47070.0,47070.0,8727.2,Amazon India,Credit Card
+ORD-2024-10476,2024-02-20,Italian Fit Formal Suit,Apparel & Fashion,Cust-1002 (Rohan Mehta),South,Kochi,1,13140.0,13140.0,4443.11,Retail Store,Credit Card
+ORD-2024-10477,2025-01-04,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1016 (Tarun Saxena),Central,Bhopal,3,720.0,2160.0,410.21,Online Store,UPI
+ORD-2024-10478,2024-11-07,"Ultra 4K Smart TV 55""",Electronics,Cust-1006 (Rahul Verma),Central,Bhopal,1,51260.0,51260.0,15546.09,Online Store,Credit Card
+ORD-2024-10479,2025-08-06,RO Water Purifier,Appliances,Cust-1021 (Shruti Banerjee),Central,Bhopal,1,15890.0,15890.0,3145.23,Retail Store,Credit Card
+ORD-2024-10480,2026-06-23,"Ultra 4K Smart TV 55""",Electronics,Cust-1011 (Meera Iyer),South,Kochi,1,50430.0,50430.0,13404.18,Distributor,Credit Card
+ORD-2024-10481,2024-11-28,Genuine Leather Boots,Apparel & Fashion,Cust-1018 (Alok Mukherjee),Central,Indore,2,6160.0,12320.0,3737.86,Amazon India,UPI
+ORD-2024-10482,2025-07-17,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1019 (Divya Malhotra),North,Lucknow,2,2610.0,5220.0,1291.98,Online Store,UPI
+ORD-2024-10483,2026-06-30,Silk Designer Kurta Set,Apparel & Fashion,Cust-1017 (Nisha Choudhury),North,Lucknow,1,4410.0,4410.0,1435.33,Amazon India,Credit Card
+ORD-2024-10484,2025-08-08,Inverter Split AC 1.5 Ton,Appliances,Cust-1007 (Siddharth Rao),West,Pune,1,40060.0,40060.0,8153.39,Retail Store,UPI
+ORD-2024-10485,2025-08-07,Modular Storage Bookshelf,Home & Furniture,Cust-1015 (Sunita Kulkarni),East,Bhubaneswar,3,6770.0,20310.0,6154.11,Flipkart,Credit Card
+ORD-2024-10486,2025-08-13,Fitness Smartwatch Gen 4,Electronics,Cust-1024 (Gaurav Bhatia),East,Kolkata,1,9130.0,9130.0,2898.03,Online Store,Net Banking
+ORD-2024-10487,2024-12-22,Adjustable LED Desk Lamp,Home & Furniture,Cust-1020 (Karan Kapoor),Central,Indore,1,2090.0,2090.0,649.92,Flipkart,UPI
+ORD-2024-10488,2024-11-08,Python Data Analytics Guide,Books & Stationery,Cust-1001 (Priya Patel),South,Chennai,2,880.0,1760.0,414.59,Amazon India,Cash on Delivery
+ORD-2024-10489,2025-04-01,Python Data Analytics Guide,Books & Stationery,Cust-1002 (Rohan Mehta),South,Hyderabad,1,870.0,870.0,214.92,Retail Store,Net Banking
+ORD-2024-10490,2025-07-15,Orthopedic Foam Mattress,Home & Furniture,Cust-1015 (Sunita Kulkarni),South,Chennai,2,17730.0,35460.0,11047.57,Amazon India,Credit Card
+ORD-2024-10491,2025-10-29,Financial Modeling Handbook,Books & Stationery,Cust-1008 (Kavya Nair),South,Bengaluru,10,1310.0,13100.0,3525.5,Flipkart,UPI
+ORD-2024-10492,2026-08-04,Python Data Analytics Guide,Books & Stationery,Cust-1011 (Meera Iyer),South,Hyderabad,2,860.0,1720.0,416.4,Amazon India,UPI
+ORD-2024-10493,2024-11-08,Convection Microwave Oven,Appliances,Cust-1001 (Priya Patel),South,Kochi,3,14160.0,42480.0,10839.86,Distributor,UPI
+ORD-2024-10494,2025-12-02,Italian Fit Formal Suit,Apparel & Fashion,Cust-1019 (Divya Malhotra),North,Jaipur,4,13330.0,53320.0,10616.18,Distributor,Debit Card
+ORD-2024-10495,2026-04-19,Silk Designer Kurta Set,Apparel & Fashion,Cust-1010 (Deepak Kumar),East,Kolkata,4,4430.0,17720.0,4108.74,Online Store,Credit Card
+ORD-2024-10496,2024-07-27,Executive Leather Journal Set,Books & Stationery,Cust-1018 (Alok Mukherjee),North,Chandigarh,2,1510.0,3020.0,1053.05,Distributor,Credit Card
+ORD-2024-10497,2024-09-18,Inverter Split AC 1.5 Ton,Appliances,Cust-1020 (Karan Kapoor),North,Chandigarh,1,41090.0,41090.0,11712.87,Distributor,UPI
+ORD-2024-10498,2025-11-07,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1012 (Suresh Menon),East,Bhubaneswar,1,2590.0,2590.0,848.12,Amazon India,Net Banking
+ORD-2024-10499,2026-07-14,Genuine Leather Boots,Apparel & Fashion,Cust-1017 (Nisha Choudhury),Central,Bhopal,2,6220.0,12440.0,2633.44,Distributor,UPI
+ORD-2024-10500,2024-09-10,Executive Leather Journal Set,Books & Stationery,Cust-1011 (Meera Iyer),West,Ahmedabad,1,1470.0,1470.0,303.84,Amazon India,UPI
+ORD-2024-10501,2025-05-28,Silk Designer Kurta Set,Apparel & Fashion,Cust-1007 (Siddharth Rao),North,Lucknow,4,4560.0,18240.0,6044.16,Online Store,Debit Card
+ORD-2024-10502,2025-11-03,Inverter Split AC 1.5 Ton,Appliances,Cust-1007 (Siddharth Rao),South,Kochi,1,42970.0,42970.0,12687.28,Amazon India,Credit Card
+ORD-2024-10503,2024-11-15,Executive Leather Journal Set,Books & Stationery,Cust-1021 (Shruti Banerjee),Central,Raipur,1,1490.0,1490.0,433.47,Flipkart,Debit Card
+ORD-2024-10504,2024-11-12,Financial Modeling Handbook,Books & Stationery,Cust-1010 (Deepak Kumar),Central,Indore,5,1290.0,6450.0,2005.36,Online Store,Credit Card
+ORD-2024-10505,2026-01-06,"Ultra 4K Smart TV 55""",Electronics,Cust-1013 (Pooja Deshmukh),West,Surat,2,48110.0,96220.0,29212.73,Retail Store,Net Banking
+ORD-2024-10506,2026-04-21,Italian Fit Formal Suit,Apparel & Fashion,Cust-1008 (Kavya Nair),Central,Raipur,1,13360.0,13360.0,2824.4,Amazon India,Credit Card
+ORD-2024-10507,2025-09-02,Front Load Washing Machine,Appliances,Cust-1016 (Tarun Saxena),East,Bhubaneswar,1,35150.0,35150.0,10438.99,Flipkart,Credit Card
+ORD-2024-10508,2025-10-27,Italian Fit Formal Suit,Apparel & Fashion,Cust-1001 (Priya Patel),South,Chennai,2,13460.0,26920.0,5474.91,Retail Store,Cash on Delivery
+ORD-2024-10509,2026-08-05,Genuine Leather Boots,Apparel & Fashion,Cust-1005 (Neha Gupta),South,Bengaluru,3,5830.0,17490.0,3751.29,Distributor,Cash on Delivery
+ORD-2024-10510,2026-06-06,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1024 (Gaurav Bhatia),East,Guwahati,4,710.0,2840.0,939.73,Online Store,Net Banking
+ORD-2024-10511,2025-01-24,Genuine Leather Boots,Apparel & Fashion,Cust-1022 (Manish Pandey),Central,Raipur,3,6070.0,18210.0,5116.04,Flipkart,Credit Card
+ORD-2024-10512,2025-04-07,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1016 (Tarun Saxena),North,Chandigarh,1,11930.0,11930.0,3238.25,Flipkart,Cash on Delivery
+ORD-2024-10513,2024-07-13,Genuine Leather Boots,Apparel & Fashion,Cust-1013 (Pooja Deshmukh),East,Bhubaneswar,1,5940.0,5940.0,1904.93,Retail Store,Debit Card
+ORD-2024-10514,2025-12-07,Financial Modeling Handbook,Books & Stationery,Cust-1005 (Neha Gupta),Central,Indore,2,1290.0,2580.0,504.07,Flipkart,Debit Card
+ORD-2024-10515,2025-12-13,Financial Modeling Handbook,Books & Stationery,Cust-1014 (Rajesh Agarwal),East,Bhubaneswar,1,1290.0,1290.0,237.66,Online Store,UPI
+ORD-2024-10516,2025-10-26,Inverter Split AC 1.5 Ton,Appliances,Cust-1023 (Swati Pillai),North,Chandigarh,1,40280.0,40280.0,11592.27,Flipkart,Credit Card
+ORD-2024-10517,2024-06-12,Modular Storage Bookshelf,Home & Furniture,Cust-1004 (Vikram Singh),Central,Raipur,3,6420.0,19260.0,6453.7,Online Store,UPI
+ORD-2024-10518,2026-02-26,Noise-Canceling Earbuds,Electronics,Cust-1003 (Ananya Reddy),West,Pune,1,4900.0,4900.0,1682.48,Distributor,Cash on Delivery
+ORD-2024-10519,2024-01-04,Executive Leather Journal Set,Books & Stationery,Cust-1007 (Siddharth Rao),North,Chandigarh,2,1430.0,2860.0,757.24,Online Store,Credit Card
+ORD-2024-10520,2025-04-09,Adjustable LED Desk Lamp,Home & Furniture,Cust-1019 (Divya Malhotra),Central,Bhopal,2,1910.0,3820.0,846.52,Amazon India,Net Banking
+ORD-2024-10521,2024-07-31,"Ultra 4K Smart TV 55""",Electronics,Cust-1010 (Deepak Kumar),North,Lucknow,1,47280.0,47280.0,8805.55,Distributor,UPI
+ORD-2024-10522,2025-03-02,Front Load Washing Machine,Appliances,Cust-1017 (Nisha Choudhury),Central,Raipur,1,35090.0,35090.0,10441.29,Online Store,Credit Card
+ORD-2024-10523,2025-08-15,Silk Designer Kurta Set,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),East,Kolkata,1,4320.0,4320.0,1048.28,Retail Store,Credit Card
+ORD-2024-10524,2024-10-26,Solid Teak Dining Table,Home & Furniture,Cust-1022 (Manish Pandey),East,Bhubaneswar,4,30790.0,123160.0,29061.5,Online Store,UPI
+ORD-2024-10525,2025-08-08,Python Data Analytics Guide,Books & Stationery,Cust-1019 (Divya Malhotra),West,Surat,3,900.0,2700.0,914.66,Flipkart,UPI
+ORD-2024-10526,2025-08-11,Executive Leather Journal Set,Books & Stationery,Cust-1005 (Neha Gupta),East,Guwahati,2,1560.0,3120.0,824.89,Distributor,UPI
+ORD-2024-10527,2024-10-24,Inverter Split AC 1.5 Ton,Appliances,Cust-1013 (Pooja Deshmukh),South,Kochi,1,40400.0,40400.0,12743.96,Online Store,UPI
+ORD-2024-10528,2026-04-05,Inverter Split AC 1.5 Ton,Appliances,Cust-1009 (Amit Joshi),North,Lucknow,1,42590.0,42590.0,9508.26,Amazon India,UPI
+ORD-2024-10529,2024-01-07,Wireless Ergonomic Mouse,Electronics,Cust-1006 (Rahul Verma),North,Jaipur,1,1470.0,1470.0,406.77,Retail Store,UPI
+ORD-2024-10530,2025-11-19,Adjustable LED Desk Lamp,Home & Furniture,Cust-1014 (Rajesh Agarwal),East,Patna,2,2060.0,4120.0,1078.84,Flipkart,Credit Card
+ORD-2024-10531,2026-01-30,Fitness Smartwatch Gen 4,Electronics,Cust-1006 (Rahul Verma),Central,Indore,1,8820.0,8820.0,2060.66,Amazon India,UPI
+ORD-2024-10532,2026-07-27,Silk Designer Kurta Set,Apparel & Fashion,Cust-1018 (Alok Mukherjee),East,Bhubaneswar,1,4710.0,4710.0,872.76,Amazon India,UPI
+ORD-2024-10533,2024-04-29,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1014 (Rajesh Agarwal),South,Hyderabad,1,2550.0,2550.0,496.63,Flipkart,UPI
+ORD-2024-10534,2025-06-21,Italian Fit Formal Suit,Apparel & Fashion,Cust-1016 (Tarun Saxena),North,Chandigarh,3,12490.0,37470.0,11699.05,Online Store,Credit Card
+ORD-2024-10535,2025-05-27,Front Load Washing Machine,Appliances,Cust-1004 (Vikram Singh),West,Ahmedabad,1,33950.0,33950.0,11154.59,Flipkart,UPI
+ORD-2024-10536,2025-06-12,Front Load Washing Machine,Appliances,Cust-1000 (Aarav Sharma),Central,Indore,1,35270.0,35270.0,10627.74,Retail Store,UPI
+ORD-2024-10537,2026-05-18,Python Data Analytics Guide,Books & Stationery,Cust-1018 (Alok Mukherjee),West,Mumbai,4,880.0,3520.0,695.3,Flipkart,Credit Card
+ORD-2024-10538,2024-08-02,Italian Fit Formal Suit,Apparel & Fashion,Cust-1008 (Kavya Nair),East,Kolkata,1,12600.0,12600.0,2951.62,Online Store,UPI
+ORD-2024-10539,2024-01-16,Python Data Analytics Guide,Books & Stationery,Cust-1018 (Alok Mukherjee),South,Hyderabad,1,870.0,870.0,203.7,Online Store,UPI
+ORD-2024-10540,2025-09-19,Running Sports Shoes,Apparel & Fashion,Cust-1012 (Suresh Menon),North,Delhi NCR,1,3980.0,3980.0,1034.9,Online Store,Credit Card
+ORD-2024-10541,2024-07-02,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1024 (Gaurav Bhatia),Central,Indore,1,710.0,710.0,226.47,Flipkart,Credit Card
+ORD-2024-10542,2024-04-05,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1007 (Siddharth Rao),East,Guwahati,3,11450.0,34350.0,10330.31,Distributor,UPI
+ORD-2024-10543,2026-07-06,Executive Leather Journal Set,Books & Stationery,Cust-1014 (Rajesh Agarwal),West,Ahmedabad,1,1560.0,1560.0,466.34,Retail Store,UPI
+ORD-2024-10544,2024-04-25,Genuine Leather Boots,Apparel & Fashion,Cust-1004 (Vikram Singh),Central,Raipur,1,5980.0,5980.0,1857.09,Amazon India,Credit Card
+ORD-2024-10545,2026-01-01,Slim Book Laptop 16GB,Electronics,Cust-1018 (Alok Mukherjee),East,Guwahati,1,72910.0,72910.0,16868.46,Retail Store,Credit Card
+ORD-2024-10546,2025-07-15,Double Door Refrigerator,Appliances,Cust-1013 (Pooja Deshmukh),Central,Bhopal,1,38450.0,38450.0,12241.16,Amazon India,UPI
+ORD-2024-10547,2025-12-11,Front Load Washing Machine,Appliances,Cust-1003 (Ananya Reddy),Central,Bhopal,1,35060.0,35060.0,11858.93,Amazon India,Credit Card
+ORD-2024-10548,2025-07-22,Noise-Canceling Earbuds,Electronics,Cust-1010 (Deepak Kumar),North,Chandigarh,3,4840.0,14520.0,2785.42,Retail Store,Credit Card
+ORD-2024-10549,2024-04-02,Front Load Washing Machine,Appliances,Cust-1021 (Shruti Banerjee),North,Jaipur,2,35840.0,71680.0,20654.06,Online Store,Credit Card
+ORD-2024-10550,2025-02-03,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1009 (Amit Joshi),Central,Raipur,3,680.0,2040.0,477.0,Distributor,Debit Card
+ORD-2024-10551,2026-01-05,Silk Designer Kurta Set,Apparel & Fashion,Cust-1001 (Priya Patel),South,Hyderabad,2,4540.0,9080.0,2422.29,Retail Store,Credit Card
+ORD-2024-10552,2024-02-24,Wireless Ergonomic Mouse,Electronics,Cust-1007 (Siddharth Rao),West,Mumbai,3,1510.0,4530.0,899.88,Retail Store,Credit Card
+ORD-2024-10553,2025-10-02,Genuine Leather Boots,Apparel & Fashion,Cust-1004 (Vikram Singh),South,Kochi,2,5940.0,11880.0,2564.97,Online Store,UPI
+ORD-2024-10554,2026-08-04,Genuine Leather Boots,Apparel & Fashion,Cust-1002 (Rohan Mehta),South,Bengaluru,10,5790.0,57900.0,17017.46,Amazon India,UPI
+ORD-2024-10555,2026-06-25,Adjustable LED Desk Lamp,Home & Furniture,Cust-1022 (Manish Pandey),East,Guwahati,1,2090.0,2090.0,424.95,Amazon India,Credit Card
+ORD-2024-10556,2024-07-03,Modular Storage Bookshelf,Home & Furniture,Cust-1013 (Pooja Deshmukh),South,Chennai,4,6450.0,25800.0,6331.36,Amazon India,Credit Card
+ORD-2024-10557,2026-05-17,RO Water Purifier,Appliances,Cust-1018 (Alok Mukherjee),North,Delhi NCR,2,15140.0,30280.0,8417.23,Retail Store,UPI
+ORD-2024-10558,2025-08-17,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1016 (Tarun Saxena),West,Surat,3,11090.0,33270.0,11551.63,Online Store,Debit Card
+ORD-2024-10559,2024-03-31,Double Door Refrigerator,Appliances,Cust-1009 (Amit Joshi),Central,Raipur,1,39410.0,39410.0,11574.0,Amazon India,Debit Card
+ORD-2024-10560,2025-07-01,Noise-Canceling Earbuds,Electronics,Cust-1011 (Meera Iyer),West,Surat,2,4980.0,9960.0,2764.64,Direct Corporate,Net Banking
+ORD-2024-10561,2024-10-23,Inverter Split AC 1.5 Ton,Appliances,Cust-1001 (Priya Patel),Central,Bhopal,1,42820.0,42820.0,9921.05,Amazon India,Credit Card
+ORD-2024-10562,2025-08-09,Wireless Ergonomic Mouse,Electronics,Cust-1002 (Rohan Mehta),West,Surat,2,1570.0,3140.0,898.46,Online Store,UPI
+ORD-2024-10563,2026-03-13,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1019 (Divya Malhotra),North,Delhi NCR,1,2410.0,2410.0,785.26,Online Store,Credit Card
+ORD-2024-10564,2024-06-03,Orthopedic Foam Mattress,Home & Furniture,Cust-1016 (Tarun Saxena),East,Bhubaneswar,1,19070.0,19070.0,5704.44,Distributor,UPI
+ORD-2024-10565,2024-03-27,RO Water Purifier,Appliances,Cust-1007 (Siddharth Rao),East,Guwahati,1,16170.0,16170.0,4273.91,Amazon India,Net Banking
+ORD-2024-10566,2024-06-20,RO Water Purifier,Appliances,Cust-1005 (Neha Gupta),North,Delhi NCR,1,15860.0,15860.0,4586.46,Retail Store,Credit Card
+ORD-2024-10567,2025-05-02,Financial Modeling Handbook,Books & Stationery,Cust-1000 (Aarav Sharma),South,Kochi,3,1280.0,3840.0,1001.01,Retail Store,Net Banking
+ORD-2024-10568,2025-01-26,Running Sports Shoes,Apparel & Fashion,Cust-1019 (Divya Malhotra),West,Surat,1,4070.0,4070.0,1367.57,Distributor,Debit Card
+ORD-2024-10569,2024-12-09,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1023 (Swati Pillai),East,Bhubaneswar,1,2570.0,2570.0,717.83,Amazon India,Net Banking
+ORD-2024-10570,2025-06-16,Italian Fit Formal Suit,Apparel & Fashion,Cust-1013 (Pooja Deshmukh),North,Delhi NCR,1,12760.0,12760.0,2315.19,Online Store,UPI
+ORD-2024-10571,2025-04-01,Italian Fit Formal Suit,Apparel & Fashion,Cust-1001 (Priya Patel),Central,Indore,1,13290.0,13290.0,2469.11,Distributor,Credit Card
+ORD-2024-10572,2026-05-05,RO Water Purifier,Appliances,Cust-1012 (Suresh Menon),Central,Indore,1,15710.0,15710.0,3148.22,Amazon India,Debit Card
+ORD-2024-10573,2025-08-02,Inverter Split AC 1.5 Ton,Appliances,Cust-1008 (Kavya Nair),North,Chandigarh,1,42820.0,42820.0,11106.76,Flipkart,Credit Card
+ORD-2024-10574,2025-11-14,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1010 (Deepak Kumar),East,Guwahati,1,2410.0,2410.0,752.18,Direct Corporate,UPI
+ORD-2024-10575,2026-04-12,Italian Fit Formal Suit,Apparel & Fashion,Cust-1005 (Neha Gupta),Central,Bhopal,2,12920.0,25840.0,8730.29,Amazon India,UPI
+ORD-2024-10576,2025-07-07,Solid Teak Dining Table,Home & Furniture,Cust-1001 (Priya Patel),West,Mumbai,1,32360.0,32360.0,8254.03,Online Store,Credit Card
+ORD-2024-10577,2024-09-13,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1008 (Kavya Nair),North,Chandigarh,1,11960.0,11960.0,3454.73,Online Store,UPI
+ORD-2024-10578,2025-02-04,Python Data Analytics Guide,Books & Stationery,Cust-1023 (Swati Pillai),East,Guwahati,5,900.0,4500.0,1185.37,Flipkart,Net Banking
+ORD-2024-10579,2025-07-07,Inverter Split AC 1.5 Ton,Appliances,Cust-1010 (Deepak Kumar),North,Lucknow,1,41510.0,41510.0,12974.83,Amazon India,Credit Card
+ORD-2024-10580,2025-10-09,Slim Book Laptop 16GB,Electronics,Cust-1020 (Karan Kapoor),East,Patna,3,72750.0,218250.0,42270.15,Online Store,Credit Card
+ORD-2024-10581,2025-01-28,Convection Microwave Oven,Appliances,Cust-1002 (Rohan Mehta),West,Surat,2,14270.0,28540.0,8196.83,Distributor,Credit Card
+ORD-2024-10582,2024-07-13,Inverter Split AC 1.5 Ton,Appliances,Cust-1002 (Rohan Mehta),East,Guwahati,1,40710.0,40710.0,11431.4,Flipkart,Credit Card
+ORD-2024-10583,2025-05-26,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1012 (Suresh Menon),West,Mumbai,1,730.0,730.0,173.51,Online Store,Net Banking
+ORD-2024-10584,2025-11-14,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1002 (Rohan Mehta),Central,Indore,4,730.0,2920.0,791.95,Online Store,UPI
+ORD-2024-10585,2025-10-31,Noise-Canceling Earbuds,Electronics,Cust-1005 (Neha Gupta),South,Bengaluru,1,5200.0,5200.0,1150.53,Amazon India,Debit Card
+ORD-2024-10586,2026-04-20,Noise-Canceling Earbuds,Electronics,Cust-1015 (Sunita Kulkarni),North,Delhi NCR,2,5050.0,10100.0,1927.82,Amazon India,Credit Card
+ORD-2024-10587,2024-03-05,Double Door Refrigerator,Appliances,Cust-1003 (Ananya Reddy),East,Patna,2,38270.0,76540.0,23378.98,Direct Corporate,Credit Card
+ORD-2024-10588,2024-05-20,Italian Fit Formal Suit,Apparel & Fashion,Cust-1004 (Vikram Singh),North,Lucknow,2,13340.0,26680.0,6324.11,Flipkart,UPI
+ORD-2024-10589,2025-01-13,Financial Modeling Handbook,Books & Stationery,Cust-1024 (Gaurav Bhatia),North,Chandigarh,5,1290.0,6450.0,1205.63,Online Store,Debit Card
+ORD-2024-10590,2024-03-23,Pro Max 5G Smartphone,Electronics,Cust-1022 (Manish Pandey),West,Surat,1,62920.0,62920.0,18297.04,Flipkart,Net Banking
+ORD-2024-10591,2025-12-09,Front Load Washing Machine,Appliances,Cust-1019 (Divya Malhotra),South,Chennai,1,33270.0,33270.0,8536.13,Amazon India,Credit Card
+ORD-2024-10592,2026-01-04,Modular Storage Bookshelf,Home & Furniture,Cust-1000 (Aarav Sharma),West,Surat,2,6790.0,13580.0,4251.07,Amazon India,UPI
+ORD-2024-10593,2025-06-26,Fitness Smartwatch Gen 4,Electronics,Cust-1024 (Gaurav Bhatia),South,Kochi,1,8870.0,8870.0,2410.45,Amazon India,UPI
+ORD-2024-10594,2024-02-24,Inverter Split AC 1.5 Ton,Appliances,Cust-1005 (Neha Gupta),East,Guwahati,1,43250.0,43250.0,14906.44,Online Store,Debit Card
+ORD-2024-10595,2024-02-25,Slim Stretch Denim Jeans,Apparel & Fashion,Cust-1003 (Ananya Reddy),East,Kolkata,1,2430.0,2430.0,692.21,Flipkart,Debit Card
+ORD-2024-10596,2024-06-29,Inverter Split AC 1.5 Ton,Appliances,Cust-1013 (Pooja Deshmukh),East,Patna,1,41940.0,41940.0,13930.94,Online Store,Credit Card
+ORD-2024-10597,2024-11-29,Inverter Split AC 1.5 Ton,Appliances,Cust-1007 (Siddharth Rao),South,Kochi,1,41270.0,41270.0,12604.57,Online Store,Credit Card
+ORD-2024-10598,2024-02-25,Solid Teak Dining Table,Home & Furniture,Cust-1014 (Rajesh Agarwal),West,Pune,2,31090.0,62180.0,13074.61,Flipkart,Credit Card
+ORD-2024-10599,2024-10-03,Convection Microwave Oven,Appliances,Cust-1014 (Rajesh Agarwal),South,Bengaluru,1,13480.0,13480.0,2563.1,Retail Store,UPI
+ORD-2024-10600,2024-12-17,Convection Microwave Oven,Appliances,Cust-1018 (Alok Mukherjee),Central,Indore,1,14140.0,14140.0,4078.82,Direct Corporate,Debit Card
+ORD-2024-10601,2024-03-29,Modular Storage Bookshelf,Home & Furniture,Cust-1000 (Aarav Sharma),East,Patna,10,6490.0,64900.0,18208.91,Flipkart,Net Banking
+ORD-2024-10602,2024-09-09,Convection Microwave Oven,Appliances,Cust-1013 (Pooja Deshmukh),South,Bengaluru,1,13910.0,13910.0,4697.01,Direct Corporate,UPI
+ORD-2024-10603,2025-04-26,Python Data Analytics Guide,Books & Stationery,Cust-1015 (Sunita Kulkarni),North,Chandigarh,1,890.0,890.0,282.71,Online Store,Credit Card
+ORD-2024-10604,2024-01-13,Solid Teak Dining Table,Home & Furniture,Cust-1015 (Sunita Kulkarni),North,Delhi NCR,1,30820.0,30820.0,8940.85,Amazon India,UPI
+ORD-2024-10605,2025-04-15,Python Data Analytics Guide,Books & Stationery,Cust-1011 (Meera Iyer),East,Bhubaneswar,2,940.0,1880.0,382.7,Amazon India,Net Banking
+ORD-2024-10606,2024-01-02,Noise-Canceling Earbuds,Electronics,Cust-1022 (Manish Pandey),East,Patna,1,5200.0,5200.0,964.92,Distributor,Credit Card
+ORD-2024-10607,2026-03-24,Inverter Split AC 1.5 Ton,Appliances,Cust-1011 (Meera Iyer),Central,Raipur,1,42510.0,42510.0,14388.84,Distributor,UPI
+ORD-2024-10608,2025-01-09,Modular Storage Bookshelf,Home & Furniture,Cust-1004 (Vikram Singh),North,Jaipur,1,6200.0,6200.0,1799.17,Direct Corporate,UPI
+ORD-2024-10609,2024-04-26,Modular Storage Bookshelf,Home & Furniture,Cust-1011 (Meera Iyer),South,Hyderabad,3,6740.0,20220.0,6228.56,Distributor,Credit Card
+ORD-2024-10610,2025-03-09,Silk Designer Kurta Set,Apparel & Fashion,Cust-1015 (Sunita Kulkarni),Central,Indore,1,4300.0,4300.0,1129.43,Flipkart,Credit Card
+ORD-2024-10611,2025-06-29,Genuine Leather Boots,Apparel & Fashion,Cust-1014 (Rajesh Agarwal),North,Jaipur,3,6070.0,18210.0,6204.37,Online Store,UPI
+ORD-2024-10612,2024-07-02,Silk Designer Kurta Set,Apparel & Fashion,Cust-1006 (Rahul Verma),East,Bhubaneswar,1,4320.0,4320.0,1289.54,Amazon India,Credit Card
+ORD-2024-10613,2024-10-27,Modular Storage Bookshelf,Home & Furniture,Cust-1006 (Rahul Verma),North,Lucknow,2,6780.0,13560.0,3409.28,Online Store,Debit Card
+ORD-2024-10614,2024-08-25,Executive Leather Journal Set,Books & Stationery,Cust-1018 (Alok Mukherjee),West,Surat,1,1490.0,1490.0,431.84,Amazon India,Credit Card
+ORD-2024-10615,2025-07-15,Adjustable LED Desk Lamp,Home & Furniture,Cust-1007 (Siddharth Rao),South,Hyderabad,1,1960.0,1960.0,615.81,Retail Store,Cash on Delivery
+ORD-2024-10616,2026-02-27,"Ultra 4K Smart TV 55""",Electronics,Cust-1005 (Neha Gupta),South,Hyderabad,1,48280.0,48280.0,10055.84,Direct Corporate,Net Banking
+ORD-2024-10617,2025-12-10,Front Load Washing Machine,Appliances,Cust-1008 (Kavya Nair),South,Kochi,1,33600.0,33600.0,7856.57,Retail Store,UPI
+ORD-2024-10618,2025-12-25,Wireless Ergonomic Mouse,Electronics,Cust-1017 (Nisha Choudhury),Central,Indore,1,1470.0,1470.0,357.79,Retail Store,Debit Card
+ORD-2024-10619,2025-02-18,Solid Teak Dining Table,Home & Furniture,Cust-1010 (Deepak Kumar),Central,Raipur,5,33430.0,167150.0,34521.33,Amazon India,UPI
+ORD-2024-10620,2026-07-06,Running Sports Shoes,Apparel & Fashion,Cust-1022 (Manish Pandey),East,Patna,3,4070.0,12210.0,3710.04,Online Store,Credit Card
+ORD-2024-10621,2024-02-11,RO Water Purifier,Appliances,Cust-1011 (Meera Iyer),South,Kochi,1,14910.0,14910.0,4249.03,Online Store,UPI
+ORD-2024-10622,2025-10-18,RO Water Purifier,Appliances,Cust-1002 (Rohan Mehta),South,Bengaluru,1,15540.0,15540.0,4823.71,Amazon India,Credit Card
+ORD-2024-10623,2025-11-18,Fitness Smartwatch Gen 4,Electronics,Cust-1021 (Shruti Banerjee),Central,Indore,1,8900.0,8900.0,2514.6,Retail Store,UPI
+ORD-2024-10624,2026-05-24,Orthopedic Foam Mattress,Home & Furniture,Cust-1017 (Nisha Choudhury),West,Surat,1,18290.0,18290.0,4364.66,Online Store,Net Banking
+ORD-2024-10625,2025-03-30,Adjustable LED Desk Lamp,Home & Furniture,Cust-1004 (Vikram Singh),East,Guwahati,4,1960.0,7840.0,2704.5,Flipkart,Credit Card
+ORD-2024-10626,2024-05-27,Convection Microwave Oven,Appliances,Cust-1002 (Rohan Mehta),North,Chandigarh,2,13960.0,27920.0,9708.58,Online Store,Credit Card
+ORD-2024-10627,2024-10-06,Solid Teak Dining Table,Home & Furniture,Cust-1005 (Neha Gupta),South,Chennai,3,32180.0,96540.0,29772.11,Flipkart,UPI
+ORD-2024-10628,2025-05-17,Slim Book Laptop 16GB,Electronics,Cust-1000 (Aarav Sharma),East,Bhubaneswar,1,74930.0,74930.0,20611.58,Flipkart,UPI
+ORD-2024-10629,2024-11-03,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1000 (Aarav Sharma),East,Bhubaneswar,4,11680.0,46720.0,11722.83,Online Store,UPI
+ORD-2024-10630,2024-03-09,Executive Leather Journal Set,Books & Stationery,Cust-1011 (Meera Iyer),East,Kolkata,2,1510.0,3020.0,989.41,Amazon India,Credit Card
+ORD-2024-10631,2026-05-15,Italian Fit Formal Suit,Apparel & Fashion,Cust-1005 (Neha Gupta),South,Hyderabad,1,13110.0,13110.0,3387.33,Online Store,UPI
+ORD-2024-10632,2025-10-13,Silk Designer Kurta Set,Apparel & Fashion,Cust-1024 (Gaurav Bhatia),Central,Indore,2,4410.0,8820.0,2991.51,Amazon India,Net Banking
+ORD-2024-10633,2025-09-05,RO Water Purifier,Appliances,Cust-1021 (Shruti Banerjee),West,Ahmedabad,1,15220.0,15220.0,4925.94,Amazon India,UPI
+ORD-2024-10634,2025-07-01,Executive Leather Journal Set,Books & Stationery,Cust-1013 (Pooja Deshmukh),West,Surat,1,1550.0,1550.0,415.54,Retail Store,Debit Card
+ORD-2024-10635,2024-04-14,Front Load Washing Machine,Appliances,Cust-1022 (Manish Pandey),Central,Raipur,2,34510.0,69020.0,21752.91,Flipkart,Credit Card
+ORD-2024-10636,2025-06-28,Python Data Analytics Guide,Books & Stationery,Cust-1015 (Sunita Kulkarni),South,Bengaluru,5,890.0,4450.0,889.18,Retail Store,Credit Card
+ORD-2024-10637,2024-05-22,Modular Storage Bookshelf,Home & Furniture,Cust-1023 (Swati Pillai),West,Mumbai,8,6510.0,52080.0,10899.05,Flipkart,UPI
+ORD-2024-10638,2026-05-27,Front Load Washing Machine,Appliances,Cust-1002 (Rohan Mehta),East,Kolkata,1,33840.0,33840.0,11735.33,Online Store,Credit Card
+ORD-2024-10639,2025-03-17,"Ultra 4K Smart TV 55""",Electronics,Cust-1003 (Ananya Reddy),North,Chandigarh,1,47080.0,47080.0,12584.08,Distributor,UPI
+ORD-2024-10640,2024-11-04,Pro Max 5G Smartphone,Electronics,Cust-1021 (Shruti Banerjee),South,Chennai,2,66830.0,133660.0,28725.97,Retail Store,UPI
+ORD-2024-10641,2026-05-16,Running Sports Shoes,Apparel & Fashion,Cust-1016 (Tarun Saxena),Central,Indore,1,3940.0,3940.0,1044.52,Amazon India,UPI
+ORD-2024-10642,2025-08-15,Fitness Smartwatch Gen 4,Electronics,Cust-1023 (Swati Pillai),Central,Indore,1,8740.0,8740.0,1991.98,Online Store,UPI
+ORD-2024-10643,2025-05-31,Orthopedic Foam Mattress,Home & Furniture,Cust-1011 (Meera Iyer),North,Jaipur,1,18870.0,18870.0,5557.2,Direct Corporate,Credit Card
+ORD-2024-10644,2025-06-10,Double Door Refrigerator,Appliances,Cust-1015 (Sunita Kulkarni),North,Jaipur,3,37390.0,112170.0,22547.81,Flipkart,Net Banking
+ORD-2024-10645,2025-07-24,Pro Max 5G Smartphone,Electronics,Cust-1009 (Amit Joshi),Central,Raipur,1,63880.0,63880.0,14578.31,Amazon India,Net Banking
+ORD-2024-10646,2024-08-19,Ergonomic Pen & Stand Kit,Books & Stationery,Cust-1021 (Shruti Banerjee),North,Chandigarh,4,680.0,2720.0,576.89,Retail Store,UPI
+ORD-2024-10647,2025-11-21,Ergonomic Mesh Office Chair,Home & Furniture,Cust-1012 (Suresh Menon),North,Jaipur,2,11380.0,22760.0,6714.39,Retail Store,Credit Card
+ORD-2024-10648,2024-04-14,Inverter Split AC 1.5 Ton,Appliances,Cust-1007 (Siddharth Rao),East,Kolkata,1,41430.0,41430.0,8867.88,Flipkart,Net Banking
+ORD-2024-10649,2024-10-12,Executive Leather Journal Set,Books & Stationery,Cust-1021 (Shruti Banerjee),West,Surat,4,1540.0,6160.0,2096.55,Amazon India,Credit Card
+ORD-2024-10650,2025-05-11,Executive Leather Journal Set,Books & Stationery,Cust-1007 (Siddharth Rao),East,Guwahati,2,1450.0,2900.0,582.24,Amazon India,UPI
